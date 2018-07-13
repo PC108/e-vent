@@ -1,0 +1,22 @@
+.ui-tabs-panel {
+    margin-left: 70px;
+}
+.uiphil-msg {
+    padding: 5px;
+    width: 350px;
+    margin-bottom: 10px;
+}
+/* DatePicker */
+.ui-widget {
+    font-family: inherit;
+    font-size: inherit;
+}
+.ui-datepicker .ui-datepicker-title {
+    line-height: 1.6em;
+}
+.ui-datepicker th {
+    padding: 0.3em;
+}
+.uiphil_icontab {
+    float: left;
+}
