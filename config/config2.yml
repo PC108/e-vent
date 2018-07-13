@@ -1,0 +1,18 @@
+## YAML Template.
+---
+"DATABASE":
+  chemin: ../../../cnx/db_dev.php
+  nom: event_dev
+  
+"MENU":
+  export_database: oui
+  cotisation: oui
+  don: oui
+  
+"ADHERENT":
+  sangha: oui
+  benevolat: oui
+  
+"ACCES":
+  front_office: oui
+  back_office: oui

@@ -1,0 +1,2035 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: E-vement\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2014-04-01 17:38+0100\n"
+"PO-Revision-Date: 2014-04-01 17:39+0100\n"
+"Last-Translator: Philippe Chevalier <contact@atelierdu.net>\n"
+"Language-Team: \n"
+"Language: en_GB\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-KeywordsList: _;gettext;gettext_noop\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-SourceCharset: utf-8\n"
+"X-Generator: Poedit 1.6.4\n"
+"X-Poedit-SearchPath-0: W:\\00_WORK_CLIENT\\Site_E-venement\\Site\\ftp\\dev"
+"\\F\n"
+
+#: W:\00_WORK_CLIENT\Site_E-venement\Site\ftp\dev\F/_fonction/ajax_getHebergement.php:37
+msgid "Aucune option d'hébergement active pour cette date."
+msgstr "No available accommodation option on this date"
+
+#: W:\00_WORK_CLIENT\Site_E-venement\Site\ftp\dev\F/_fonction/ajax_getHebergement.php:41
+msgid "Aucun choix"
+msgstr "No choice"
+
+#: W:\00_WORK_CLIENT\Site_E-venement\Site\ftp\dev\F/_fonction/ajax_getHebergement.php:65
+#: W:\00_WORK_CLIENT\Site_E-venement\Site\ftp\dev\F/_fonction/ajax_getJourEvent.php:108
+#: W:\00_WORK_CLIENT\Site_E-venement\Site\ftp\dev\F/_fonction/ajax_getRestauration.php:63
+msgid "complet"
+msgstr "full"
+
+#: W:\00_WORK_CLIENT\Site_E-venement\Site\ftp\dev\F/_fonction/ajax_getJourEvent.php:35
+msgid "Aucune date active pour cet événement."
+msgstr "No available date for this event"
+
+#: W:\00_WORK_CLIENT\Site_E-venement\Site\ftp\dev\F/_fonction/ajax_getJourEvent.php:71
+msgid "bad param !"
+msgstr "bad param !"
+
+#: W:\00_WORK_CLIENT\Site_E-venement\Site\ftp\dev\F/_fonction/ajax_getJourEvent.php:85
+msgid "places illimitées"
+msgstr "unrestricted booking"
+
+#: W:\00_WORK_CLIENT\Site_E-venement\Site\ftp\dev\F/_fonction/ajax_getJourEvent.php:92
+#, php-format
+msgid "reste %s places sur %s"
+msgstr "%s remaining bookings out of %s"
+
+#: W:\00_WORK_CLIENT\Site_E-venement\Site\ftp\dev\F/_fonction/ajax_getJourEvent.php:102
+msgid "gratuit"
+msgstr "free"
+
+#: W:\00_WORK_CLIENT\Site_E-venement\Site\ftp\dev\F/_fonction/ajax_getJourEvent.php:145
+msgid "à"
+msgstr "at"
+
+#: W:\00_WORK_CLIENT\Site_E-venement\Site\ftp\dev\F/_fonction/ajax_getRestauration.php:37
+msgid "Aucune option de restauration active pour cette date."
+msgstr "No catering option available for this date."
+
+#: W:\00_WORK_CLIENT\Site_E-venement\Site\ftp\dev\F/_fonction/ajax_updateCmd.php:34
+#: W:\00_WORK_CLIENT\Site_E-venement\Site\ftp\dev\F/_fonction/ajax_updateCmd.php:42
+msgid ""
+"un problème est survenu lors de la création de la commande. Opération "
+"annulée."
+msgstr ""
+"a problem occurred during the creation of the order. Operation canceled."
+
+#: W:\00_WORK_CLIENT\Site_E-venement\Site\ftp\dev\F/_fonction/ajax_updateCmd.php:77
+msgid "cette cotisation"
+msgstr "this membership"
+
+#: W:\00_WORK_CLIENT\Site_E-venement\Site\ftp\dev\F/_fonction/ajax_updateCmd.php:80
+msgid "ce don"
+msgstr "this donation"
+
+#: W:\00_WORK_CLIENT\Site_E-venement\Site\ftp\dev\F/_fonction/ajax_updateCmd.php:83
+msgid "cet achat"
+msgstr "this purchase"
+
+#: W:\00_WORK_CLIENT\Site_E-venement\Site\ftp\dev\F/_fonction/ajax_updateCmd.php:96
+msgid "Informations incomplètes pour enregistrer "
+msgstr "Incomplete information for registration"
+
+#: W:\00_WORK_CLIENT\Site_E-venement\Site\ftp\dev\F/_fonction/ajax_updateCmd.php:105
+msgid " n'est pas valide. Il n'a pas été ajouté à la commande."
+msgstr "is not effective. It has not been added to the order."
+
+#: W:\00_WORK_CLIENT\Site_E-venement\Site\ftp\dev\F/_fonction/ajax_updateCmd.php:121
+msgid " est déjà présent dans la commande."
+msgstr "is already present in the order."
+
+#: W:\00_WORK_CLIENT\Site_E-venement\Site\ftp\dev\F/_fonction/ajax_updateCmd.php:127
+msgid " n'a pas un montant valide."
+msgstr "is not a valid amount."
+
+#: W:\00_WORK_CLIENT\Site_E-venement\Site\ftp\dev\F/_fonction/ajax_updateCmd.php:138
+msgid "problème lors de la suppression des surcoûts pour cette commande"
+msgstr "problem when deleting additional dues for this order"
+
+#: W:\00_WORK_CLIENT\Site_E-venement\Site\ftp\dev\F/_fonction/ajax_updateCmd.php:181
+#, php-format
+msgid " a été %s ajouté %s à votre commande"
+msgstr "has been %s added %s to your order"
+
+#: W:\00_WORK_CLIENT\Site_E-venement\Site\ftp\dev\F/_fonction/ajax_updateCmd.php:184
+msgid "Un problème est survenu lors de l'ajout de"
+msgstr "An error has occured on adding"
+
+#: W:\00_WORK_CLIENT\Site_E-venement\Site\ftp\dev\F/_fonction/ajax_updateCmd.php:184
+#: W:\00_WORK_CLIENT\Site_E-venement\Site\ftp\dev\F/_fonction/ajax_updateCmd.php:216
+msgid "à votre commande. Merci de vérifier."
+msgstr "to your order. Please check."
+
+#: W:\00_WORK_CLIENT\Site_E-venement\Site\ftp\dev\F/_fonction/ajax_updateCmd.php:213
+#, php-format
+msgid " a été %s retiré %s à votre commande"
+msgstr "has been %s removed %s from your order"
+
+#: W:\00_WORK_CLIENT\Site_E-venement\Site\ftp\dev\F/_fonction/ajax_updateCmd.php:216
+msgid "Un problème est survenu lors du retrait de"
+msgstr "A problem occured when removing"
+
+#: W:\00_WORK_CLIENT\Site_E-venement\Site\ftp\dev\F/_fonction/ajax_updateCmd.php:235
+msgid "problème lors de la mise à jour des surcoûts pour cette commande"
+msgstr "Problem during the update of additional dues for this order"
+
+#: W:\00_WORK_CLIENT\Site_E-venement\Site\ftp\dev\F/_fonction/ajax_updateCmd.php:273
+msgid "Total ="
+msgstr "Total = "
+
+#: W:\00_WORK_CLIENT\Site_E-venement\Site\ftp\dev\F/_fonction/ajax_updateCmd.php:274
+msgid "touche [échap] pour fermer cette boite de dialogue"
+msgstr "[Esc] to close this dialog"
+
+#: W:\00_WORK_CLIENT\Site_E-venement\Site\ftp\dev\F/_fonction/bodyCmd.php:20
+msgid "Prestataire"
+msgstr "Provider"
+
+#: W:\00_WORK_CLIENT\Site_E-venement\Site\ftp\dev\F/_fonction/bodyCmd.php:35
+msgid "Commanditaire"
+msgstr "Order by"
+
+#: W:\00_WORK_CLIENT\Site_E-venement\Site\ftp\dev\F/_fonction/bodyCmd.php:44
+#: W:\00_WORK_CLIENT\Site_E-venement\Site\ftp\dev\F/adherent/add.php:255
+#: W:\00_WORK_CLIENT\Site_E-venement\Site\ftp\dev\F/general/login.php:43
+msgid "Identifiant"
+msgstr "ID"
+
+#: W:\00_WORK_CLIENT\Site_E-venement\Site\ftp\dev\F/_fonction/bodyCmd.php:52
+msgid "Facture"
+msgstr "Invoice"
+
+#: W:\00_WORK_CLIENT\Site_E-venement\Site\ftp\dev\F/_fonction/bodyCmd.php:55
+msgid "Commande"
+msgstr "Order"
+
+#: W:\00_WORK_CLIENT\Site_E-venement\Site\ftp\dev\F/_fonction/bodyCmd.php:57
+#: W:\00_WORK_CLIENT\Site_E-venement\Site\ftp\dev\F/commande/historique.php:80
+msgid "Référence"
+msgstr "Reference"
+
+#: W:\00_WORK_CLIENT\Site_E-venement\Site\ftp\dev\F/_fonction/bodyCmd.php:58
+#: W:\00_WORK_CLIENT\Site_E-venement\Site\ftp\dev\F/commande/historique.php:83
+msgid "Etat"
+msgstr "State"
+
+#: W:\00_WORK_CLIENT\Site_E-venement\Site\ftp\dev\F/_fonction/bodyCmd.php:60
+msgid "Mode de paiement"
+msgstr "Method of Payment"
+
+#: W:\00_WORK_CLIENT\Site_E-venement\Site\ftp\dev\F/_fonction/bodyCmd.php:63
+msgid "Créée le"
+msgstr "Created on the"
+
+#: W:\00_WORK_CLIENT\Site_E-venement\Site\ftp\dev\F/_fonction/bodyCmd.php:71
+msgid ""
+"Cet achat est aujourd'hui complet, dépassé ou désactivé par l'organisateur. "
+"Veuillez le supprimer de votre commande avant de payer."
+msgstr ""
+"This purchase is either complete, outdated or disabled by the organizer. "
+"Please delete it from your order before paying."
+
+#: W:\00_WORK_CLIENT\Site_E-venement\Site\ftp\dev\F/_fonction/bodyCmd.php:87
+msgid "Cotisation à jour"
+msgstr "Membership up to date"
+
+#: W:\00_WORK_CLIENT\Site_E-venement\Site\ftp\dev\F/_fonction/bodyCmd.php:89
+msgid "Cotisation en attente de réception*"
+msgstr "Membership dues still pending*"
+
+#: W:\00_WORK_CLIENT\Site_E-venement\Site\ftp\dev\F/_fonction/bodyCmd.php:107
+msgid "Evénement plein tarif"
+msgstr "Full price event"
+
+#: W:\00_WORK_CLIENT\Site_E-venement\Site\ftp\dev\F/_fonction/bodyCmd.php:114
+#: W:\00_WORK_CLIENT\Site_E-venement\Site\ftp\dev\F/_fonction/bodyCmd.php:115
+msgid "de"
+msgstr "of"
+
+#: W:\00_WORK_CLIENT\Site_E-venement\Site\ftp\dev\F/_fonction/bodyCmd.php:162
+msgid "Cotisation ponctuelle"
+msgstr "Limited membership"
+
+#: W:\00_WORK_CLIENT\Site_E-venement\Site\ftp\dev\F/_fonction/bodyCmd.php:199
+msgid ""
+"* Une cotisation ponctuelle peut être ajoutée à un achat si la cotisation "
+"annuelle n'est pas à jour."
+msgstr ""
+"* An additional due will be added to a purchase if the annual membership is "
+"outdated."
+
+#: W:\00_WORK_CLIENT\Site_E-venement\Site\ftp\dev\F/_fonction/bodyCmd.php:204
+#: W:\00_WORK_CLIENT\Site_E-venement\Site\ftp\dev\F/paypal/paypal.php:108
+msgid "Remise exceptionelle"
+msgstr "Discount"
+
+#: W:\00_WORK_CLIENT\Site_E-venement\Site\ftp\dev\F/_fonction/bodyCmd.php:206
+msgid "Total"
+msgstr "Total"
+
+#: W:\00_WORK_CLIENT\Site_E-venement\Site\ftp\dev\F/_fonction/initSessionAdh.php:45
+msgid "Votre cotisation pour l'année en cours est à jour."
+msgstr "Your membership for the current year is up to date."
+
+#: W:\00_WORK_CLIENT\Site_E-venement\Site\ftp\dev\F/_fonction/initSessionAdh.php:49
+msgid "Votre cotisation pour l'année en cours est en attente de réception."
+msgstr "Your membership for the current year is pending."
+
+#: W:\00_WORK_CLIENT\Site_E-venement\Site\ftp\dev\F/_footer.php:6
+msgid "Confirmation de l'action"
+msgstr "Confirmation of action"
+
+#: W:\00_WORK_CLIENT\Site_E-venement\Site\ftp\dev\F/_header.php:11
+msgid "pour"
+msgstr "for"
+
+#: W:\00_WORK_CLIENT\Site_E-venement\Site\ftp\dev\F/_header.php:16
+msgid "S'identifier"
+msgstr "Log in"
+
+#: W:\00_WORK_CLIENT\Site_E-venement\Site\ftp\dev\F/_header.php:18
+msgid "se déconnecter"
+msgstr "Log out"
+
+#: W:\00_WORK_CLIENT\Site_E-venement\Site\ftp\dev\F/_header.php:19
+msgid "Bonjour"
+msgstr "Welcome"
+
+#: W:\00_WORK_CLIENT\Site_E-venement\Site\ftp\dev\F/_header.php:48
+#: W:\00_WORK_CLIENT\Site_E-venement\Site\ftp\dev\F/_header.php:52
+#: W:\00_WORK_CLIENT\Site_E-venement\Site\ftp\dev\F/evenement/evenement.php:15
+#: W:\00_WORK_CLIENT\Site_E-venement\Site\ftp\dev\F/evenement/index.php:12
+msgid "Les événements"
+msgstr "Events"
+
+#: W:\00_WORK_CLIENT\Site_E-venement\Site\ftp\dev\F/_header.php:54
+msgid "Les cotisations"
+msgstr "Membership dues"
+
+#: W:\00_WORK_CLIENT\Site_E-venement\Site\ftp\dev\F/_header.php:56
+msgid "Mes commandes"
+msgstr "My Orders"
+
+#: W:\00_WORK_CLIENT\Site_E-venement\Site\ftp\dev\F/_header.php:57
+#: W:\00_WORK_CLIENT\Site_E-venement\Site\ftp\dev\F/amis/amis_add.php:205
+#: W:\00_WORK_CLIENT\Site_E-venement\Site\ftp\dev\F/amis/result.php:8
+#: W:\00_WORK_CLIENT\Site_E-venement\Site\ftp\dev\F/amis/search.php:116
+#: W:\00_WORK_CLIENT\Site_E-venement\Site\ftp\dev\F/amis/search_result.php:125
+msgid "Mes relations"
+msgstr "My relations"
+
+#: W:\00_WORK_CLIENT\Site_E-venement\Site\ftp\dev\F/_header.php:58
+msgid "Mes infos perso."
+msgstr "My personal info."
+
+#: W:\00_WORK_CLIENT\Site_E-venement\Site\ftp\dev\F/_messages.php:6
+msgid ""
+"Vous avez été redirigé sur la page d'accueil car la page demandée n'est "
+"accessible qu'après vous être identifié."
+msgstr ""
+"You have been redirected to the home page because the requested page is "
+"available only after identification."
+
+#: W:\00_WORK_CLIENT\Site_E-venement\Site\ftp\dev\F/_messages.php:9
+msgid "L'enregistrement a été modifié avec succès."
+msgstr "The record has been successfully modified."
+
+#: W:\00_WORK_CLIENT\Site_E-venement\Site\ftp\dev\F/_messages.php:12
+msgid "Problème lors de la mise à jour de l'enregistrement."
+msgstr "Problem with record update."
+
+#: W:\00_WORK_CLIENT\Site_E-venement\Site\ftp\dev\F/_messages.php:15
+msgid "L'enregistrement a été ajouté avec succès."
+msgstr "The record has been successfully added ."
+
+#: W:\00_WORK_CLIENT\Site_E-venement\Site\ftp\dev\F/_messages.php:18
+msgid "Problème lors de l'insertion de l'enregistrement."
+msgstr "Problem while inserting the record."
+
+#: W:\00_WORK_CLIENT\Site_E-venement\Site\ftp\dev\F/_messages.php:21
+msgid "L'enregistrement a été supprimé avec succès."
+msgstr "The record has been successfully deleted."
+
+#: W:\00_WORK_CLIENT\Site_E-venement\Site\ftp\dev\F/_messages.php:24
+msgid "Problème lors de la suppression de l'enregistrement."
+msgstr "Problem while deleting record."
+
+#: W:\00_WORK_CLIENT\Site_E-venement\Site\ftp\dev\F/_messages.php:27
+msgid ""
+"Certaine(s) information(s) saisies dans le formulaire ne sont pas valides ou "
+"manquantes. Vous pouvez activer javascript pour bénéficier d'une validation "
+"directe lors de la saisie."
+msgstr ""
+"Some information is invalid or lacking on form.  You may activate Javascript "
+"for direct validation on input."
+
+#: W:\00_WORK_CLIENT\Site_E-venement\Site\ftp\dev\F/_messages.php:30
+msgid ""
+"Certaine(s) information(s) sont manquantes pour afficher la page demandée. "
+"vous avez été redirigé."
+msgstr ""
+"Requested page cannot be displayed for lack of information. You have been "
+"redirected."
+
+#: W:\00_WORK_CLIENT\Site_E-venement\Site\ftp\dev\F/_messages.php:33
+msgid "L'utilisateur est inconnu. Accès refusé."
+msgstr "Unknown user. Access denied"
+
+#: W:\00_WORK_CLIENT\Site_E-venement\Site\ftp\dev\F/_messages.php:36
+msgid "Mot de passe non valide. Accès refusé."
+msgstr "Wrong password. Access denied"
+
+#: W:\00_WORK_CLIENT\Site_E-venement\Site\ftp\dev\F/_messages.php:39
+msgid ""
+"Vous n'avez pas encore confirmé votre inscription par email. Veuillez "
+"vérifier dans votre boite de réception."
+msgstr ""
+"You have not yet confirmed your registration by email. Please check your "
+"inbox."
+
+#: W:\00_WORK_CLIENT\Site_E-venement\Site\ftp\dev\F/_messages.php:42
+msgid ""
+"Vos identifiants et mots de passe ont été correctement envoyés à l'adresse "
+"email fournie."
+msgstr ""
+"Your logins and passwords have been correctly sent to the email address "
+"provided."
+
+#: W:\00_WORK_CLIENT\Site_E-venement\Site\ftp\dev\F/_messages.php:45
+msgid "L'envoi du mail a échoué."
+msgstr "Email sending has failed."
+
+#: W:\00_WORK_CLIENT\Site_E-venement\Site\ftp\dev\F/_messages.php:48
+msgid ""
+"L'envoi du mail contenant les nouveaux identifiants a échoué. Veuillez "
+"contacter l'administrateur du site si le problème persiste."
+msgstr ""
+"Email sending for new ID has failed. Please contact the webmaster if the "
+"problem persists."
+
+#: W:\00_WORK_CLIENT\Site_E-venement\Site\ftp\dev\F/_messages.php:51
+msgid "Aucun identifiant n'a été trouvé correspondant à cette adresse email."
+msgstr "ID irrelevant to this email address."
+
+#: W:\00_WORK_CLIENT\Site_E-venement\Site\ftp\dev\F/_messages.php:54
+msgid "Cette adresse email est déjà inscrite à la lettre d'information."
+msgstr "This email address is already registered for the newsletter."
+
+#: W:\00_WORK_CLIENT\Site_E-venement\Site\ftp\dev\F/_messages.php:57
+msgid "Cette adresse email est maintenant inscrite à la lettre d'information."
+msgstr "This email address is now  registered fo the newsletter."
+
+#: W:\00_WORK_CLIENT\Site_E-venement\Site\ftp\dev\F/_messages.php:60
+msgid "Cette adresse email n'est pas inscrite à la lettre d'information."
+msgstr "This email address is not  registered for the newsletter."
+
+#: W:\00_WORK_CLIENT\Site_E-venement\Site\ftp\dev\F/_messages.php:63
+msgid "Cette adresse email a été désinscrite de la lettre d'information."
+msgstr "This email address has been deleted from the newsletter."
+
+#: W:\00_WORK_CLIENT\Site_E-venement\Site\ftp\dev\F/_messages.php:66
+msgid ""
+"Votre inscription a bien été prise en compte. Nous vous en remercions. Un "
+"email va vous être envoyé avec un lien qui vous permettra de finaliser votre "
+"inscription. Vous pouvez maintenant quitter cette page."
+msgstr ""
+"Your registration has been taken into account. Thank you. An email is on the "
+"way with your login to finalize your registration. You may now leave this "
+"page."
+
+#: W:\00_WORK_CLIENT\Site_E-venement\Site\ftp\dev\F/_messages.php:69
+msgid "Vous pouvez maintenant quitter cette page."
+msgstr "You may now leave this page"
+
+#: W:\00_WORK_CLIENT\Site_E-venement\Site\ftp\dev\F/_messages.php:72
+msgid ""
+"Un utilisateur avec ce nom, prénom et email s'est déjà inscrit sur le site. "
+"Un email avec les accés au compte va être envoyé à cette adresse."
+msgstr ""
+"User name, surname and email already registered on the site. An email with "
+"access to the account will be sent to this address."
+
+#: W:\00_WORK_CLIENT\Site_E-venement\Site\ftp\dev\F/_messages.php:75
+msgid ""
+"Votre email a été confirmé. Veuillez renseigner les champs obligatoires pour "
+"finaliser votre inscription sur le site."
+msgstr ""
+"Your registration has been confirmed. Please complete the requested fields "
+"to finalize your registration on the site."
+
+#: W:\00_WORK_CLIENT\Site_E-venement\Site\ftp\dev\F/_messages.php:78
+msgid "Votre inscription est introuvable. Veuillez vous inscrire à nouveau."
+msgstr "Your registration cannot be found. Please register again."
+
+#: W:\00_WORK_CLIENT\Site_E-venement\Site\ftp\dev\F/_messages.php:81
+msgid ""
+"Merci pour votre inscription. Vous pouvez maintenant utiliser le site sans "
+"restrictions."
+msgstr ""
+"Thank you for your registration. You may now use the site without "
+"restrictions."
+
+#: W:\00_WORK_CLIENT\Site_E-venement\Site\ftp\dev\F/_messages.php:84
+msgid "Votre email a été correctement envoyé."
+msgstr "Your email has been sent correctly."
+
+#: W:\00_WORK_CLIENT\Site_E-venement\Site\ftp\dev\F/_messages.php:87
+msgid ""
+"Il n'existe aucune commande en cours. Ajouter un élément à votre commande "
+"pour l'initialiser."
+msgstr "There is no current order. Add an item to your order to initialize it."
+
+#: W:\00_WORK_CLIENT\Site_E-venement\Site\ftp\dev\F/_messages.php:90
+msgid "Actuellement, cette commande ne contient aucun achat."
+msgstr "This order does not contain any current purchase."
+
+#: W:\00_WORK_CLIENT\Site_E-venement\Site\ftp\dev\F/_messages.php:93
+msgid ""
+"Les informations pour procéder à la transaction sont incomplètes. Veuillez "
+"contacter l'administrateur du site si le problème persiste."
+msgstr ""
+"Information to process your transaction is incomplete. Please contact the "
+"webmaster if the problem persists."
+
+#: W:\00_WORK_CLIENT\Site_E-venement\Site\ftp\dev\F/_messages.php:96
+msgid "Impossible de se connecter au site de paypal, rééssayez ultérieurement."
+msgstr "Paypal website connection impossible, please try again later."
+
+#: W:\00_WORK_CLIENT\Site_E-venement\Site\ftp\dev\F/_messages.php:99
+msgid ""
+"Les informations sur la transaction PAYPAL sont incomplètes. Merci de "
+"vérifier directement dans votre compte PAYPAL que la transaction s'est bien "
+"effectuée."
+msgstr ""
+"Information on the PAYPAL transaction is incomplete. Please check directly "
+"into your PayPal account that the transaction has been successfully "
+"processed."
+
+#: W:\00_WORK_CLIENT\Site_E-venement\Site\ftp\dev\F/_messages.php:102
+msgid ""
+"Le groupe a bien été créé. Vous pouvez maintenant rechercher et ajouter des "
+"adhérents à ce groupe."
+msgstr ""
+"The group has been created. You may now search and add members to this group."
+
+#: W:\00_WORK_CLIENT\Site_E-venement\Site\ftp\dev\F/_messages.php:105
+msgid "Vous avez été retiré du groupe."
+msgstr "You have been removed from group."
+
+#: W:\00_WORK_CLIENT\Site_E-venement\Site\ftp\dev\F/_messages.php:108
+msgid "Un adhérent avec ce nom, prénom et email existe déjà."
+msgstr "A member with this name, surname and email already exists."
+
+#: W:\00_WORK_CLIENT\Site_E-venement\Site\ftp\dev\F/_messages.php:111
+msgid ""
+"L'inscription a réussi. Un mail a été envoyé à l'adresse fournie avec les "
+"identifiants de connexion. La personne est maintenant en relation avec vous."
+msgstr ""
+"You have successfully registered. An email with the login has been sent to "
+"the address provided. The person has been added to your relations."
+
+#: W:\00_WORK_CLIENT\Site_E-venement\Site\ftp\dev\F/_messages.php:114
+msgid ""
+"Une commande a été initialisée pour votre compte. Pour en savoir plus, "
+"cliquez sur le bouton \"Mes commandes\""
+msgstr ""
+"An order has been initialized for your account. For more information click "
+"the \"My orders\" button"
+
+#: W:\00_WORK_CLIENT\Site_E-venement\Site\ftp\dev\F/_messages.php:117
+msgid ""
+"Problème lors de l'initialisation de la commande. Veuillez contacter "
+"l'administrateur du site si le problème persiste."
+msgstr ""
+"A problem occured during order initialization. Please contact the webmaster "
+"if the problem persists."
+
+#: W:\00_WORK_CLIENT\Site_E-venement\Site\ftp\dev\F/_messages.php:120
+msgid "Aucune information n'est disponible concernant ce lieu."
+msgstr "No available information regarding this location."
+
+#: W:\00_WORK_CLIENT\Site_E-venement\Site\ftp\dev\F/_shared_js.php:42
+#: W:\00_WORK_CLIENT\Site_E-venement\Site\ftp\dev\F/evenement/evenement.php:290
+msgid "voir le détail de la commande & payer"
+msgstr "see order details & pay"
+
+#: W:\00_WORK_CLIENT\Site_E-venement\Site\ftp\dev\F/_shared_js.php:42
+msgid "continuer"
+msgstr "continue"
+
+#: W:\00_WORK_CLIENT\Site_E-venement\Site\ftp\dev\F/adherent/action.php:159
+#: W:\00_WORK_CLIENT\Site_E-venement\Site\ftp\dev\F/amis/action.php:56
+#: W:\00_WORK_CLIENT\Site_E-venement\Site\ftp\dev\F/newsletter/action.php:50
+msgid "L'action a échouée."
+msgstr "Action has failed."
+
+#: W:\00_WORK_CLIENT\Site_E-venement\Site\ftp\dev\F/adherent/action.php:159
+#: W:\00_WORK_CLIENT\Site_E-venement\Site\ftp\dev\F/amis/action.php:56
+#: W:\00_WORK_CLIENT\Site_E-venement\Site\ftp\dev\F/commande/print.php:91
+#: W:\00_WORK_CLIENT\Site_E-venement\Site\ftp\dev\F/evenement/lieu.php:136
+#: W:\00_WORK_CLIENT\Site_E-venement\Site\ftp\dev\F/newsletter/action.php:50
+msgid "retour"
+msgstr "back"
+
+#: W:\00_WORK_CLIENT\Site_E-venement\Site\ftp\dev\F/adherent/add.php:7
+msgid "Mes informations personnelles"
+msgstr "My personal information"
+
+#: W:\00_WORK_CLIENT\Site_E-venement\Site\ftp\dev\F/adherent/add.php:40
+msgid "aucune"
+msgstr "none"
+
+#: W:\00_WORK_CLIENT\Site_E-venement\Site\ftp\dev\F/adherent/add.php:223
+#: W:\00_WORK_CLIENT\Site_E-venement\Site\ftp\dev\F/cotisation/add.php:82
+msgid "Cotisation"
+msgstr "Membership dues"
+
+#: W:\00_WORK_CLIENT\Site_E-venement\Site\ftp\dev\F/adherent/add.php:225
+msgid "Année de cotisation"
+msgstr "Membership year"
+
+#: W:\00_WORK_CLIENT\Site_E-venement\Site\ftp\dev\F/adherent/add.php:233
+#: W:\00_WORK_CLIENT\Site_E-venement\Site\ftp\dev\F/amis/amis_add.php:213
+msgid "Informations Personnelles"
+msgstr "Personal information"
+
+#: W:\00_WORK_CLIENT\Site_E-venement\Site\ftp\dev\F/adherent/add.php:235
+#: W:\00_WORK_CLIENT\Site_E-venement\Site\ftp\dev\F/adherent/inscription.php:71
+#: W:\00_WORK_CLIENT\Site_E-venement\Site\ftp\dev\F/amis/amis_add.php:215
+msgid "Genre"
+msgstr "Gender"
+
+#: W:\00_WORK_CLIENT\Site_E-venement\Site\ftp\dev\F/adherent/add.php:237
+#: W:\00_WORK_CLIENT\Site_E-venement\Site\ftp\dev\F/adherent/inscription.php:73
+#: W:\00_WORK_CLIENT\Site_E-venement\Site\ftp\dev\F/amis/amis_add.php:217
+msgid "Mr"
+msgstr "Mr"
+
+#: W:\00_WORK_CLIENT\Site_E-venement\Site\ftp\dev\F/adherent/add.php:238
+#: W:\00_WORK_CLIENT\Site_E-venement\Site\ftp\dev\F/adherent/inscription.php:74
+#: W:\00_WORK_CLIENT\Site_E-venement\Site\ftp\dev\F/amis/amis_add.php:218
+msgid "Mme"
+msgstr "Mrs"
+
+#: W:\00_WORK_CLIENT\Site_E-venement\Site\ftp\dev\F/adherent/add.php:239
+#: W:\00_WORK_CLIENT\Site_E-venement\Site\ftp\dev\F/adherent/add.php:309
+#: W:\00_WORK_CLIENT\Site_E-venement\Site\ftp\dev\F/adherent/inscription.php:75
+#: W:\00_WORK_CLIENT\Site_E-venement\Site\ftp\dev\F/amis/amis_add.php:219
+#: W:\00_WORK_CLIENT\Site_E-venement\Site\ftp\dev\F/amis/search_result.php:159
+msgid "Au moins une sélection requise."
+msgstr "At least one selection required."
+
+#: W:\00_WORK_CLIENT\Site_E-venement\Site\ftp\dev\F/adherent/add.php:243
+#: W:\00_WORK_CLIENT\Site_E-venement\Site\ftp\dev\F/adherent/inscription.php:79
+#: W:\00_WORK_CLIENT\Site_E-venement\Site\ftp\dev\F/adherent/inscription_action.php:90
+#: W:\00_WORK_CLIENT\Site_E-venement\Site\ftp\dev\F/amis/amis_add.php:223
+msgid "Nom"
+msgstr "Name"
+
+#: W:\00_WORK_CLIENT\Site_E-venement\Site\ftp\dev\F/adherent/add.php:249
+#: W:\00_WORK_CLIENT\Site_E-venement\Site\ftp\dev\F/adherent/inscription.php:85
+#: W:\00_WORK_CLIENT\Site_E-venement\Site\ftp\dev\F/adherent/inscription_action.php:91
+#: W:\00_WORK_CLIENT\Site_E-venement\Site\ftp\dev\F/amis/amis_add.php:229
+msgid "Prénom"
+msgstr "Firstname"
+
+#: W:\00_WORK_CLIENT\Site_E-venement\Site\ftp\dev\F/adherent/add.php:259
+#: W:\00_WORK_CLIENT\Site_E-venement\Site\ftp\dev\F/adherent/inscription.php:91
+#: W:\00_WORK_CLIENT\Site_E-venement\Site\ftp\dev\F/adherent/inscription_action.php:94
+#: W:\00_WORK_CLIENT\Site_E-venement\Site\ftp\dev\F/amis/amis_add.php:235
+#: W:\00_WORK_CLIENT\Site_E-venement\Site\ftp\dev\F/general/login.php:43
+msgid "Mot de passe"
+msgstr "Password"
+
+#: W:\00_WORK_CLIENT\Site_E-venement\Site\ftp\dev\F/adherent/add.php:262
+#: W:\00_WORK_CLIENT\Site_E-venement\Site\ftp\dev\F/adherent/add.php:269
+#: W:\00_WORK_CLIENT\Site_E-venement\Site\ftp\dev\F/adherent/inscription.php:94
+#: W:\00_WORK_CLIENT\Site_E-venement\Site\ftp\dev\F/adherent/inscription.php:101
+#: W:\00_WORK_CLIENT\Site_E-venement\Site\ftp\dev\F/amis/amis_add.php:238
+#: W:\00_WORK_CLIENT\Site_E-venement\Site\ftp\dev\F/amis/amis_add.php:245
+msgid "Entre 4 et 16 caractères."
+msgstr "Between 4 and 16 characters."
+
+#: W:\00_WORK_CLIENT\Site_E-venement\Site\ftp\dev\F/adherent/add.php:266
+#: W:\00_WORK_CLIENT\Site_E-venement\Site\ftp\dev\F/amis/amis_add.php:242
+msgid "Confirmation du mot de passe"
+msgstr "Confirm your password"
+
+#: W:\00_WORK_CLIENT\Site_E-venement\Site\ftp\dev\F/adherent/add.php:273
+msgid "Année de naissance"
+msgstr "Year of birth"
+
+#: W:\00_WORK_CLIENT\Site_E-venement\Site\ftp\dev\F/adherent/add.php:278
+#: W:\00_WORK_CLIENT\Site_E-venement\Site\ftp\dev\F/amis/amis_add.php:250
+msgid "Type Tarif"
+msgstr "Tariff rate"
+
+#: W:\00_WORK_CLIENT\Site_E-venement\Site\ftp\dev\F/adherent/add.php:289
+#: W:\00_WORK_CLIENT\Site_E-venement\Site\ftp\dev\F/adherent/inscription.php:105
+#: W:\00_WORK_CLIENT\Site_E-venement\Site\ftp\dev\F/amis/amis_add.php:261
+msgid "Communication"
+msgstr "Communication"
+
+#: W:\00_WORK_CLIENT\Site_E-venement\Site\ftp\dev\F/adherent/add.php:291
+#: W:\00_WORK_CLIENT\Site_E-venement\Site\ftp\dev\F/amis/amis_add.php:263
+msgid "Email"
+msgstr "Email"
+
+#: W:\00_WORK_CLIENT\Site_E-venement\Site\ftp\dev\F/adherent/add.php:298
+#: W:\00_WORK_CLIENT\Site_E-venement\Site\ftp\dev\F/adherent/inscription.php:113
+msgid "Newsletter"
+msgstr "Newsletter"
+
+#: W:\00_WORK_CLIENT\Site_E-venement\Site\ftp\dev\F/adherent/add.php:301
+#: W:\00_WORK_CLIENT\Site_E-venement\Site\ftp\dev\F/adherent/inscription.php:116
+msgid "A cocher si vous voulez être inscrit à la newsletter."
+msgstr "Tick if you wish to subscribe to the newsletter."
+
+#: W:\00_WORK_CLIENT\Site_E-venement\Site\ftp\dev\F/adherent/add.php:305
+msgid "Langue"
+msgstr "Language"
+
+#: W:\00_WORK_CLIENT\Site_E-venement\Site\ftp\dev\F/adherent/add.php:307
+msgid "Français"
+msgstr "French"
+
+#: W:\00_WORK_CLIENT\Site_E-venement\Site\ftp\dev\F/adherent/add.php:308
+msgid "Anglais"
+msgstr "English"
+
+#: W:\00_WORK_CLIENT\Site_E-venement\Site\ftp\dev\F/adherent/add.php:310
+msgid ""
+"Correspond à la langue avec laquelle vous communiquez le plus facilement."
+msgstr "Corresponds to the language in which you communicate more easily."
+
+#: W:\00_WORK_CLIENT\Site_E-venement\Site\ftp\dev\F/adherent/add.php:314
+msgid "Téléphone"
+msgstr "Phone"
+
+#: W:\00_WORK_CLIENT\Site_E-venement\Site\ftp\dev\F/adherent/add.php:318
+msgid "Portable"
+msgstr "Mobile"
+
+#: W:\00_WORK_CLIENT\Site_E-venement\Site\ftp\dev\F/adherent/add.php:321
+#: W:\00_WORK_CLIENT\Site_E-venement\Site\ftp\dev\F/amis/amis_add.php:266
+msgid "Adresse"
+msgstr "Address"
+
+#: W:\00_WORK_CLIENT\Site_E-venement\Site\ftp\dev\F/adherent/add.php:323
+#: W:\00_WORK_CLIENT\Site_E-venement\Site\ftp\dev\F/amis/amis_add.php:274
+msgid "Adresse 1"
+msgstr "Address 1"
+
+#: W:\00_WORK_CLIENT\Site_E-venement\Site\ftp\dev\F/adherent/add.php:327
+#: W:\00_WORK_CLIENT\Site_E-venement\Site\ftp\dev\F/amis/amis_add.php:278
+msgid "Adresse 2"
+msgstr "Address 2"
+
+#: W:\00_WORK_CLIENT\Site_E-venement\Site\ftp\dev\F/adherent/add.php:331
+#: W:\00_WORK_CLIENT\Site_E-venement\Site\ftp\dev\F/amis/amis_add.php:282
+msgid "Code postal"
+msgstr "Zip code"
+
+#: W:\00_WORK_CLIENT\Site_E-venement\Site\ftp\dev\F/adherent/add.php:335
+#: W:\00_WORK_CLIENT\Site_E-venement\Site\ftp\dev\F/amis/amis_add.php:286
+msgid "Ville"
+msgstr "Town"
+
+#: W:\00_WORK_CLIENT\Site_E-venement\Site\ftp\dev\F/adherent/add.php:339
+#: W:\00_WORK_CLIENT\Site_E-venement\Site\ftp\dev\F/amis/amis_add.php:290
+msgid "Pays"
+msgstr "Country"
+
+#: W:\00_WORK_CLIENT\Site_E-venement\Site\ftp\dev\F/adherent/add.php:351
+msgid "Sangha"
+msgstr "Sangha"
+
+#: W:\00_WORK_CLIENT\Site_E-venement\Site\ftp\dev\F/adherent/add.php:353
+msgid "Ordination"
+msgstr "Ordination"
+
+#: W:\00_WORK_CLIENT\Site_E-venement\Site\ftp\dev\F/adherent/add.php:356
+msgid "A cocher si vous êtes nonne ou moine."
+msgstr "Tick if you are either a monk or a nun."
+
+#: W:\00_WORK_CLIENT\Site_E-venement\Site\ftp\dev\F/adherent/add.php:360
+msgid "Nom de Dharma"
+msgstr "Dharma name"
+
+#: W:\00_WORK_CLIENT\Site_E-venement\Site\ftp\dev\F/adherent/add.php:362
+msgid "Laisser vide si aucun."
+msgstr "Leave blank if irrelevant"
+
+#: W:\00_WORK_CLIENT\Site_E-venement\Site\ftp\dev\F/adherent/add.php:367
+msgid "Bénévolat"
+msgstr "Volunteering"
+
+#: W:\00_WORK_CLIENT\Site_E-venement\Site\ftp\dev\F/adherent/add.php:370
+msgid "Vous souhaitez nous aider bénévolement"
+msgstr "You wish to volunteer"
+
+#: W:\00_WORK_CLIENT\Site_E-venement\Site\ftp\dev\F/adherent/add.php:375
+msgid "Profession"
+msgstr "Occupation"
+
+#: W:\00_WORK_CLIENT\Site_E-venement\Site\ftp\dev\F/adherent/add.php:379
+msgid "Disponibilités"
+msgstr "Availability"
+
+#: W:\00_WORK_CLIENT\Site_E-venement\Site\ftp\dev\F/adherent/add.php:382
+msgid "Non renseigné"
+msgstr "Unspecified"
+
+#: W:\00_WORK_CLIENT\Site_E-venement\Site\ftp\dev\F/adherent/add.php:383
+msgid "Occasionnellement"
+msgstr "Occasionally"
+
+#: W:\00_WORK_CLIENT\Site_E-venement\Site\ftp\dev\F/adherent/add.php:384
+msgid "Vacances scolaires uniquement"
+msgstr "Holidays only"
+
+#: W:\00_WORK_CLIENT\Site_E-venement\Site\ftp\dev\F/adherent/add.php:385
+msgid "Week ends uniquement"
+msgstr "Week ends only"
+
+#: W:\00_WORK_CLIENT\Site_E-venement\Site\ftp\dev\F/adherent/add.php:386
+msgid "Tout le temps"
+msgstr "Permanent"
+
+#: W:\00_WORK_CLIENT\Site_E-venement\Site\ftp\dev\F/adherent/add.php:391
+msgid "Compétences"
+msgstr "Abilities"
+
+#: W:\00_WORK_CLIENT\Site_E-venement\Site\ftp\dev\F/adherent/add.php:401
+msgid "Aucune compétence renseignée"
+msgstr "No stated ability"
+
+#: W:\00_WORK_CLIENT\Site_E-venement\Site\ftp\dev\F/adherent/add.php:412
+msgid "mettre à jour"
+msgstr "update"
+
+#: W:\00_WORK_CLIENT\Site_E-venement\Site\ftp\dev\F/adherent/inscription.php:6
+#: W:\00_WORK_CLIENT\Site_E-venement\Site\ftp\dev\F/evenement/index.php:265
+#: W:\00_WORK_CLIENT\Site_E-venement\Site\ftp\dev\F/evenement/index.php:273
+msgid "S'inscrire"
+msgstr "Sign in"
+
+#: W:\00_WORK_CLIENT\Site_E-venement\Site\ftp\dev\F/adherent/inscription.php:67
+msgid ""
+"Merci de renseigner le formulaire ci-dessous pour recevoir par mail votre "
+"identifiant de connexion."
+msgstr "Please fill in the following form to receive your login by email"
+
+#: W:\00_WORK_CLIENT\Site_E-venement\Site\ftp\dev\F/adherent/inscription.php:69
+#: W:\00_WORK_CLIENT\Site_E-venement\Site\ftp\dev\F/contact/contact.php:135
+msgid "Informations personnelles"
+msgstr "Personal information"
+
+#: W:\00_WORK_CLIENT\Site_E-venement\Site\ftp\dev\F/adherent/inscription.php:98
+msgid "Confirmez votre mot de passe"
+msgstr "Confirm your password"
+
+#: W:\00_WORK_CLIENT\Site_E-venement\Site\ftp\dev\F/adherent/inscription.php:107
+msgid "Adresse mail"
+msgstr "Email"
+
+#: W:\00_WORK_CLIENT\Site_E-venement\Site\ftp\dev\F/adherent/inscription.php:122
+#: W:\00_WORK_CLIENT\Site_E-venement\Site\ftp\dev\F/contact/contact.php:148
+#: W:\00_WORK_CLIENT\Site_E-venement\Site\ftp\dev\F/evenement/index.php:262
+msgid "envoyer"
+msgstr "Send"
+
+#: W:\00_WORK_CLIENT\Site_E-venement\Site\ftp\dev\F/adherent/inscription_action.php:86
+msgid "Récupération de vos informations personnelles sur e-venement.com pour"
+msgstr "Retrieval of your personal information from e-venement.com for "
+
+#: W:\00_WORK_CLIENT\Site_E-venement\Site\ftp\dev\F/adherent/inscription_action.php:87
+#: W:\00_WORK_CLIENT\Site_E-venement\Site\ftp\dev\F/adherent/inscription_action.php:157
+#: W:\00_WORK_CLIENT\Site_E-venement\Site\ftp\dev\F/amis/amis_action.php:117
+#: W:\00_WORK_CLIENT\Site_E-venement\Site\ftp\dev\F/general/login.php:40
+msgid "Bonjour "
+msgstr "Welcome"
+
+#: W:\00_WORK_CLIENT\Site_E-venement\Site\ftp\dev\F/adherent/inscription_action.php:88
+msgid ""
+"Un compte existe déjà sur le site contenant le nom, prénom et adresse email "
+"que vous avez saisi lors de votre inscription."
+msgstr ""
+"An account already exists on the site containing the name and email address "
+"you typed during registration."
+
+#: W:\00_WORK_CLIENT\Site_E-venement\Site\ftp\dev\F/adherent/inscription_action.php:89
+msgid "Ce compte contient les informations suivantes :"
+msgstr "This account contains the following information:"
+
+#: W:\00_WORK_CLIENT\Site_E-venement\Site\ftp\dev\F/adherent/inscription_action.php:92
+msgid "Mail"
+msgstr "Email"
+
+#: W:\00_WORK_CLIENT\Site_E-venement\Site\ftp\dev\F/adherent/inscription_action.php:93
+msgid "Login"
+msgstr "Login"
+
+#: W:\00_WORK_CLIENT\Site_E-venement\Site\ftp\dev\F/adherent/inscription_action.php:95
+msgid ""
+"Si ce compte vous appartient, merci d'utiliser ces identifiants pour vous "
+"connecter au site."
+msgstr ""
+"If this account belongs to you, please use these IDs to log in to site."
+
+#: W:\00_WORK_CLIENT\Site_E-venement\Site\ftp\dev\F/adherent/inscription_action.php:97
+#: W:\00_WORK_CLIENT\Site_E-venement\Site\ftp\dev\F/adherent/inscription_action.php:163
+#: W:\00_WORK_CLIENT\Site_E-venement\Site\ftp\dev\F/amis/amis_action.php:123
+#: W:\00_WORK_CLIENT\Site_E-venement\Site\ftp\dev\F/general/login.php:49
+msgid "Cordialement."
+msgstr "Sincerely."
+
+#: W:\00_WORK_CLIENT\Site_E-venement\Site\ftp\dev\F/adherent/inscription_action.php:98
+#: W:\00_WORK_CLIENT\Site_E-venement\Site\ftp\dev\F/adherent/inscription_action.php:164
+#: W:\00_WORK_CLIENT\Site_E-venement\Site\ftp\dev\F/amis/amis_action.php:124
+#: W:\00_WORK_CLIENT\Site_E-venement\Site\ftp\dev\F/general/login.php:50
+msgid "L'équipe de e-venement.com pour"
+msgstr "E-venement.com team for "
+
+#: W:\00_WORK_CLIENT\Site_E-venement\Site\ftp\dev\F/adherent/inscription_action.php:156
+msgid "Inscription sur e-venement.com pour"
+msgstr "Site Registration on e-venement.com for"
+
+#: W:\00_WORK_CLIENT\Site_E-venement\Site\ftp\dev\F/adherent/inscription_action.php:158
+msgid "Vous avez été correctement inscrit sur e-venement.com pour"
+msgstr "You have been correctly registered on e-venement.com for"
+
+#: W:\00_WORK_CLIENT\Site_E-venement\Site\ftp\dev\F/adherent/inscription_action.php:159
+msgid "Veuillez confirmer votre inscription en suivant ce lien :"
+msgstr "Please confirm your registration by following this link:"
+
+#: W:\00_WORK_CLIENT\Site_E-venement\Site\ftp\dev\F/adherent/inscription_action.php:161
+#: W:\00_WORK_CLIENT\Site_E-venement\Site\ftp\dev\F/amis/amis_action.php:121
+msgid "Votre identifiant est :"
+msgstr "Your ID is :"
+
+#: W:\00_WORK_CLIENT\Site_E-venement\Site\ftp\dev\F/adherent/inscription_action.php:162
+#: W:\00_WORK_CLIENT\Site_E-venement\Site\ftp\dev\F/amis/amis_action.php:122
+msgid "Votre mot de passe est :"
+msgstr "Your password is :"
+
+#: W:\00_WORK_CLIENT\Site_E-venement\Site\ftp\dev\F/adherent/inscription_fin.php:6
+msgid "Fin de l'étape 1 de l'inscription"
+msgstr "End of first stage of registration"
+
+#: W:\00_WORK_CLIENT\Site_E-venement\Site\ftp\dev\F/adherent/inscription_fin.php:34
+msgid "retour au site"
+msgstr "Back to the website"
+
+#: W:\00_WORK_CLIENT\Site_E-venement\Site\ftp\dev\F/amis/_amis.php:48
+msgid "Actuellement,\tvous\teffectuez\tdes\tachats pour"
+msgstr "\tYou \tare currently \tpurchasing for"
+
+#: W:\00_WORK_CLIENT\Site_E-venement\Site\ftp\dev\F/amis/_amis.php:50
+msgid "changer"
+msgstr "Change"
+
+#: W:\00_WORK_CLIENT\Site_E-venement\Site\ftp\dev\F/amis/_amis.php:58
+#: W:\00_WORK_CLIENT\Site_E-venement\Site\ftp\dev\F/amis/result.php:158
+msgid "Vous n'avez pas encore créé de relations."
+msgstr "You have not created any relations yet."
+
+#: W:\00_WORK_CLIENT\Site_E-venement\Site\ftp\dev\F/amis/_amis.php:67
+msgid "fermer"
+msgstr "Close"
+
+#: W:\00_WORK_CLIENT\Site_E-venement\Site\ftp\dev\F/amis/_amis.php:68
+#: W:\00_WORK_CLIENT\Site_E-venement\Site\ftp\dev\F/amis/result.php:161
+msgid "ajouter une relation"
+msgstr "Add a relation"
+
+#: W:\00_WORK_CLIENT\Site_E-venement\Site\ftp\dev\F/amis/amis_action.php:116
+msgid "Inscription à e-venement.com pour"
+msgstr "Registration to e-venement.com for"
+
+#: W:\00_WORK_CLIENT\Site_E-venement\Site\ftp\dev\F/amis/amis_action.php:118
+msgid "vous a inscrit sur e-venement.com pour"
+msgstr "has registered you on e-venement.com for"
+
+#: W:\00_WORK_CLIENT\Site_E-venement\Site\ftp\dev\F/amis/amis_add.php:7
+msgid "Créer un nouvel adhérent"
+msgstr "Create a new member"
+
+#: W:\00_WORK_CLIENT\Site_E-venement\Site\ftp\dev\F/amis/amis_add.php:206
+#: W:\00_WORK_CLIENT\Site_E-venement\Site\ftp\dev\F/amis/search.php:7
+#: W:\00_WORK_CLIENT\Site_E-venement\Site\ftp\dev\F/amis/search_result.php:126
+msgid "Chercher un adhérent"
+msgstr "Search for a member"
+
+#: W:\00_WORK_CLIENT\Site_E-venement\Site\ftp\dev\F/amis/amis_add.php:209
+msgid "charger le formulaire avec mes données par défaut"
+msgstr "load my form with default data"
+
+#: W:\00_WORK_CLIENT\Site_E-venement\Site\ftp\dev\F/amis/amis_add.php:210
+msgid "vider le formulaire"
+msgstr "clear form"
+
+#: W:\00_WORK_CLIENT\Site_E-venement\Site\ftp\dev\F/amis/amis_add.php:269
+msgid "Vous souhaitez envoyer les billets à une autre adresse que la vôtre."
+msgstr "You want to send  tickets to another address than yours."
+
+#: W:\00_WORK_CLIENT\Site_E-venement\Site\ftp\dev\F/amis/amis_add.php:303
+msgid "créer l'adhérent"
+msgstr "Create a new member "
+
+#: W:\00_WORK_CLIENT\Site_E-venement\Site\ftp\dev\F/amis/result.php:86
+msgid "supprimer"
+msgstr "delete"
+
+#: W:\00_WORK_CLIENT\Site_E-venement\Site\ftp\dev\F/amis/result.php:86
+#: W:\00_WORK_CLIENT\Site_E-venement\Site\ftp\dev\F/amis/result.php:97
+msgid "annuler"
+msgstr "cancel"
+
+#: W:\00_WORK_CLIENT\Site_E-venement\Site\ftp\dev\F/amis/result.php:97
+msgid "désactiver"
+msgstr "disable"
+
+#: W:\00_WORK_CLIENT\Site_E-venement\Site\ftp\dev\F/amis/result.php:122
+msgid ""
+"Les relations vous permettent de vous inscrire à plusieurs à un événement ou "
+"de payer une cotisation de groupe."
+msgstr ""
+"Relations allows for registration of several people at once to an event or "
+"to pay group membership dues."
+
+#: W:\00_WORK_CLIENT\Site_E-venement\Site\ftp\dev\F/amis/result.php:124
+msgid "Les relations de"
+msgstr "The relations of"
+
+#: W:\00_WORK_CLIENT\Site_E-venement\Site\ftp\dev\F/amis/result.php:124
+msgid "sont :"
+msgstr "are :"
+
+#: W:\00_WORK_CLIENT\Site_E-venement\Site\ftp\dev\F/amis/result.php:150
+msgid "Cette relation a été désactivée."
+msgstr "This relation has been disabled."
+
+#: W:\00_WORK_CLIENT\Site_E-venement\Site\ftp\dev\F/amis/result.php:163
+msgid "a été ajouté dans les relations des personnes suivantes :"
+msgstr "has been added as a relation of the following people :"
+
+#: W:\00_WORK_CLIENT\Site_E-venement\Site\ftp\dev\F/amis/result.php:185
+msgid "désactiver la relation"
+msgstr "disable relation"
+
+#: W:\00_WORK_CLIENT\Site_E-venement\Site\ftp\dev\F/amis/result.php:188
+msgid "Vous avez désactivé cette relation."
+msgstr "You have disabled this relation."
+
+#: W:\00_WORK_CLIENT\Site_E-venement\Site\ftp\dev\F/amis/result.php:195
+msgid "Vous n'avez pas encore été ajouté à une relation."
+msgstr "You have not yet been added as a relation."
+
+#: W:\00_WORK_CLIENT\Site_E-venement\Site\ftp\dev\F/amis/result.php:198
+#: W:\00_WORK_CLIENT\Site_E-venement\Site\ftp\dev\F/amis/result.php:201
+msgid "Confirmation"
+msgstr "Confirmation"
+
+#: W:\00_WORK_CLIENT\Site_E-venement\Site\ftp\dev\F/amis/result.php:199
+msgid "Vous allez supprimer cette relation."
+msgstr "You are about to delete this relation."
+
+#: W:\00_WORK_CLIENT\Site_E-venement\Site\ftp\dev\F/amis/result.php:199
+msgid "cette action est irréversible."
+msgstr "This action is irreversible."
+
+#: W:\00_WORK_CLIENT\Site_E-venement\Site\ftp\dev\F/amis/result.php:202
+#, php-format
+msgid ""
+"Vous allez désactiver la relation initialisée par cette personne. %s Elle ne "
+"pourra plus vous associer à ses commandes."
+msgstr ""
+"You are going to disable the relation initiated by this person. %s They will "
+"no longer be able to include you in their orders."
+
+#: W:\00_WORK_CLIENT\Site_E-venement\Site\ftp\dev\F/amis/search.php:60
+#: W:\00_WORK_CLIENT\Site_E-venement\Site\ftp\dev\F/commande/result.php:65
+#: W:\00_WORK_CLIENT\Site_E-venement\Site\ftp\dev\F/evenement/evenement.php:159
+msgid "ok"
+msgstr "Ok"
+
+#: W:\00_WORK_CLIENT\Site_E-venement\Site\ftp\dev\F/amis/search.php:61
+msgid "créer un nouvel adhérent"
+msgstr "Create a new member "
+
+#: W:\00_WORK_CLIENT\Site_E-venement\Site\ftp\dev\F/amis/search.php:61
+msgid "nouvelle recherche"
+msgstr "new search"
+
+#: W:\00_WORK_CLIENT\Site_E-venement\Site\ftp\dev\F/amis/search.php:120
+msgid ""
+"Pour créer une relation, veuillez  tout d'abord vérifier si cette personne "
+"est déjà inscrite sur la plateforme."
+msgstr ""
+"To add a relation, check first whether that person is already in our files."
+
+#: W:\00_WORK_CLIENT\Site_E-venement\Site\ftp\dev\F/amis/search.php:121
+msgid "Si ce n'est pas le cas, demandez-lui de s'inscrire ou"
+msgstr "If not, ask them to sign up themselves or"
+
+#: W:\00_WORK_CLIENT\Site_E-venement\Site\ftp\dev\F/amis/search.php:121
+msgid "créez un nouvel adhérent."
+msgstr "create a new relation. "
+
+#: W:\00_WORK_CLIENT\Site_E-venement\Site\ftp\dev\F/amis/search.php:126
+msgid "prénom"
+msgstr "Firstname"
+
+#: W:\00_WORK_CLIENT\Site_E-venement\Site\ftp\dev\F/amis/search.php:132
+msgid "et nom"
+msgstr "and last name"
+
+#: W:\00_WORK_CLIENT\Site_E-venement\Site\ftp\dev\F/amis/search.php:137
+msgid "OU"
+msgstr "OR"
+
+#: W:\00_WORK_CLIENT\Site_E-venement\Site\ftp\dev\F/amis/search.php:139
+#: W:\00_WORK_CLIENT\Site_E-venement\Site\ftp\dev\F/evenement/index.php:257
+#: W:\00_WORK_CLIENT\Site_E-venement\Site\ftp\dev\F/newsletter/_add.php:6
+msgid "email"
+msgstr "email"
+
+#: W:\00_WORK_CLIENT\Site_E-venement\Site\ftp\dev\F/amis/search.php:145
+msgid "rechercher"
+msgstr "Search"
+
+#: W:\00_WORK_CLIENT\Site_E-venement\Site\ftp\dev\F/amis/search.php:149
+#: W:\00_WORK_CLIENT\Site_E-venement\Site\ftp\dev\F/amis/search.php:153
+#: W:\00_WORK_CLIENT\Site_E-venement\Site\ftp\dev\F/amis/search_result.php:7
+msgid "Résultat de la recherche"
+msgstr "Search Result"
+
+#: W:\00_WORK_CLIENT\Site_E-venement\Site\ftp\dev\F/amis/search.php:150
+msgid ""
+"Aucune nouvelle personne correspondant à votre critère de recherche n'a été "
+"trouvée sur la plateforme."
+msgstr "No new person matches your search request in our files."
+
+#: W:\00_WORK_CLIENT\Site_E-venement\Site\ftp\dev\F/amis/search.php:151
+msgid ""
+"Vous pouvez l'inscrire en créant un nouvel adhérent ou modifier vos critères "
+"de recherche."
+msgstr ""
+"You may register by creating a new member or change your search criteria."
+
+#: W:\00_WORK_CLIENT\Site_E-venement\Site\ftp\dev\F/amis/search.php:154
+msgid ""
+"Cette personne a été trouvée et a été ajoutée à votre liste de relations."
+msgstr "This person has been found and added to your list of relations."
+
+#: W:\00_WORK_CLIENT\Site_E-venement\Site\ftp\dev\F/amis/search_result.php:129
+msgid "personne(s) trouvée(s) correspondant à la recherche :"
+msgstr "people matching your search request :"
+
+#: W:\00_WORK_CLIENT\Site_E-venement\Site\ftp\dev\F/amis/search_result.php:162
+msgid "ajouter à mes relations"
+msgstr "add to my relations"
+
+#: W:\00_WORK_CLIENT\Site_E-venement\Site\ftp\dev\F/commande/_commande.php:17
+#: W:\00_WORK_CLIENT\Site_E-venement\Site\ftp\dev\F/commande/result.php:127
+msgid "Pour démarrer une nouvelle commande, ajoutez un achat."
+msgstr "To start a new order, add a purchase."
+
+#: W:\00_WORK_CLIENT\Site_E-venement\Site\ftp\dev\F/commande/_commande.php:28
+msgid "voir le détail & payer"
+msgstr "See details & pay"
+
+#: W:\00_WORK_CLIENT\Site_E-venement\Site\ftp\dev\F/commande/_commande.php:31
+#: W:\00_WORK_CLIENT\Site_E-venement\Site\ftp\dev\F/commande/result.php:132
+msgid "modifier"
+msgstr "change"
+
+#: W:\00_WORK_CLIENT\Site_E-venement\Site\ftp\dev\F/commande/_commande.php:44
+msgid "Ma commande"
+msgstr "My Order"
+
+#: W:\00_WORK_CLIENT\Site_E-venement\Site\ftp\dev\F/commande/historique.php:8
+#: W:\00_WORK_CLIENT\Site_E-venement\Site\ftp\dev\F/commande/result.php:120
+msgid "Historique des factures"
+msgstr "Invoice list"
+
+#: W:\00_WORK_CLIENT\Site_E-venement\Site\ftp\dev\F/commande/historique.php:73
+#: W:\00_WORK_CLIENT\Site_E-venement\Site\ftp\dev\F/commande/result.php:11
+msgid "Commande en cours"
+msgstr "Pending order"
+
+#: W:\00_WORK_CLIENT\Site_E-venement\Site\ftp\dev\F/commande/historique.php:76
+msgid "Votre historique des factures ne contient pour le moment aucun élément."
+msgstr "Your invoice list currently contains no elements."
+
+#: W:\00_WORK_CLIENT\Site_E-venement\Site\ftp\dev\F/commande/historique.php:81
+msgid "Date de création"
+msgstr "Creation date"
+
+#: W:\00_WORK_CLIENT\Site_E-venement\Site\ftp\dev\F/commande/historique.php:82
+msgid "Montant"
+msgstr "Amount"
+
+#: W:\00_WORK_CLIENT\Site_E-venement\Site\ftp\dev\F/commande/historique.php:84
+msgid "Paiement"
+msgstr "Payment"
+
+#: W:\00_WORK_CLIENT\Site_E-venement\Site\ftp\dev\F/commande/historique.php:95
+msgid "détail"
+msgstr "detail"
+
+#: W:\00_WORK_CLIENT\Site_E-venement\Site\ftp\dev\F/commande/historique.php:103
+msgid "Notez qu'il existe aussi une commande en cours."
+msgstr "Note that there is also a pending order."
+
+#: W:\00_WORK_CLIENT\Site_E-venement\Site\ftp\dev\F/commande/print.php:11
+msgid "Impression de la commande"
+msgstr "Print order"
+
+#: W:\00_WORK_CLIENT\Site_E-venement\Site\ftp\dev\F/commande/print.php:92
+#: W:\00_WORK_CLIENT\Site_E-venement\Site\ftp\dev\F/commande/result.php:133
+msgid "imprimer"
+msgstr "print"
+
+#: W:\00_WORK_CLIENT\Site_E-venement\Site\ftp\dev\F/commande/result.php:122
+msgid ""
+"Tous les choix que vous effectuez sont enregistrés en temps réel dans votre "
+"commande. Ainsi, vous pouvez vous déconnecter à tout moment sans perdre "
+"d'informations."
+msgstr ""
+"All choices made are recorded in real time in your order. You can therefore "
+"disconnect at any time without losing information."
+
+#: W:\00_WORK_CLIENT\Site_E-venement\Site\ftp\dev\F/commande/result.php:126
+#, php-format
+msgid ""
+"Aucune commande n'a été initialisée ou bien votre dernière commande est en "
+"cours de traitement. Dans ce cas, vous la retrouverez dans %s l'historique "
+"des factures. %s"
+msgstr ""
+"No order has been initialized or your last order is being processed. In this "
+"case, you'll find it % s in the invoices list. %s"
+
+#: W:\00_WORK_CLIENT\Site_E-venement\Site\ftp\dev\F/commande/result.php:128
+msgid "ajouter des achats"
+msgstr "add purchases"
+
+#: W:\00_WORK_CLIENT\Site_E-venement\Site\ftp\dev\F/commande/result.php:135
+msgid "effectuer votre paiement"
+msgstr "make your payment"
+
+#: W:\00_WORK_CLIENT\Site_E-venement\Site\ftp\dev\F/commande/result.php:141
+msgid "Effectuer votre paiement"
+msgstr "Make your payment"
+
+#: W:\00_WORK_CLIENT\Site_E-venement\Site\ftp\dev\F/commande/result.php:146
+msgid "par carte bancaire"
+msgstr "by credit card"
+
+#: W:\00_WORK_CLIENT\Site_E-venement\Site\ftp\dev\F/commande/result.php:147
+msgid "solution PAYPAL"
+msgstr "PAYPAL solution"
+
+#: W:\00_WORK_CLIENT\Site_E-venement\Site\ftp\dev\F/commande/result.php:156
+msgid "par chèque, mandat ou espèces"
+msgstr "by cheque, money order or cash"
+
+#: W:\00_WORK_CLIENT\Site_E-venement\Site\ftp\dev\F/commande/result.php:157
+msgid "payer par chèque"
+msgstr "pay by cheque"
+
+#: W:\00_WORK_CLIENT\Site_E-venement\Site\ftp\dev\F/commande/result.php:168
+msgid "retirer cet achat de la commande"
+msgstr "remove this purchase from the order"
+
+#: W:\00_WORK_CLIENT\Site_E-venement\Site\ftp\dev\F/commande/result.php:169
+msgid "Procéder au paiement par chèque, mandat ou espèces"
+msgstr "Make payment by cheque, money order or cash"
+
+#: W:\00_WORK_CLIENT\Site_E-venement\Site\ftp\dev\F/commande/result.php:171
+msgid "La référence de votre commande est"
+msgstr "Your order reference is"
+
+#: W:\00_WORK_CLIENT\Site_E-venement\Site\ftp\dev\F/commande/result.php:172
+msgid "Le montant de votre commande est de"
+msgstr "Your order amount is"
+
+#: W:\00_WORK_CLIENT\Site_E-venement\Site\ftp\dev\F/commande/result.php:173
+msgid "Pour payer par chèque, mandat ou espèces, imprimez votre commande."
+msgstr "To pay by cheque, money order or cash, print your order."
+
+#: W:\00_WORK_CLIENT\Site_E-venement\Site\ftp\dev\F/commande/result.php:174
+msgid "Joignez-la à votre paiement et adressez le tout à :"
+msgstr "Include it with your payment and send it to:"
+
+#: W:\00_WORK_CLIENT\Site_E-venement\Site\ftp\dev\F/commande/result.php:185
+msgid "Les chèques ou mandats sont à adresser à l'attention de :"
+msgstr "Cheques or money orders should be sent to the attention of:"
+
+#: W:\00_WORK_CLIENT\Site_E-venement\Site\ftp\dev\F/contact/_lien.php:2
+#: W:\00_WORK_CLIENT\Site_E-venement\Site\ftp\dev\F/contact/contact.php:114
+msgid "Nous contacter"
+msgstr "Contact Us"
+
+#: W:\00_WORK_CLIENT\Site_E-venement\Site\ftp\dev\F/contact/_lien.php:3
+msgid "Par téléphone"
+msgstr "Phone"
+
+#: W:\00_WORK_CLIENT\Site_E-venement\Site\ftp\dev\F/contact/_lien.php:5
+msgid "Par email"
+msgstr "Mail"
+
+#: W:\00_WORK_CLIENT\Site_E-venement\Site\ftp\dev\F/contact/_lien.php:6
+#: W:\00_WORK_CLIENT\Site_E-venement\Site\ftp\dev\F/paypal/cancel.php:94
+msgid "cliquez ici"
+msgstr "Click here"
+
+#: W:\00_WORK_CLIENT\Site_E-venement\Site\ftp\dev\F/contact/contact.php:11
+msgid "Contact"
+msgstr "Contact"
+
+#: W:\00_WORK_CLIENT\Site_E-venement\Site\ftp\dev\F/contact/contact.php:33
+msgid "info : ne souhaite pas transmettre ses informations personnelles."
+msgstr "info: does not wish to send their personal information."
+
+#: W:\00_WORK_CLIENT\Site_E-venement\Site\ftp\dev\F/contact/contact.php:38
+msgid "info : envoyé avant de s'être identifié sur le site."
+msgstr "info: sent until they have logged into the site."
+
+#: W:\00_WORK_CLIENT\Site_E-venement\Site\ftp\dev\F/contact/contact.php:116
+msgid "Votre email"
+msgstr "Your email"
+
+#: W:\00_WORK_CLIENT\Site_E-venement\Site\ftp\dev\F/contact/contact.php:122
+msgid "Sujet"
+msgstr "Subject"
+
+#: W:\00_WORK_CLIENT\Site_E-venement\Site\ftp\dev\F/contact/contact.php:128
+msgid "Tapez votre message"
+msgstr "Type your message"
+
+#: W:\00_WORK_CLIENT\Site_E-venement\Site\ftp\dev\F/contact/contact.php:137
+msgid ""
+"Pour nous aider à vous reconnaître, souhaitez-vous ajouter les informations "
+"ci-dessous au contenu de votre message."
+msgstr ""
+"To help us recognize you, you may add the following information to the "
+"content of your message:"
+
+#: W:\00_WORK_CLIENT\Site_E-venement\Site\ftp\dev\F/contact/contact.php:142
+msgid "oui"
+msgstr "Yes"
+
+#: W:\00_WORK_CLIENT\Site_E-venement\Site\ftp\dev\F/contact/contact.php:143
+msgid "non"
+msgstr "No"
+
+#: W:\00_WORK_CLIENT\Site_E-venement\Site\ftp\dev\F/cotisation/_add.php:18
+msgid "Ma cotisation"
+msgstr "My membership"
+
+#: W:\00_WORK_CLIENT\Site_E-venement\Site\ftp\dev\F/cotisation/add.php:8
+msgid "Cotisations"
+msgstr "Membership dues"
+
+#: W:\00_WORK_CLIENT\Site_E-venement\Site\ftp\dev\F/cotisation/add.php:59
+#, php-format
+msgid ""
+"La cotisation de %s %s pour l'année en cours est à jour. Nous vous en "
+"remercions."
+msgstr "Current year membership for %s %s valid. Thank you."
+
+#: W:\00_WORK_CLIENT\Site_E-venement\Site\ftp\dev\F/cotisation/add.php:62
+#, php-format
+msgid "Aucune cotisation de %s %s pour %s n'a encore été payée."
+msgstr "No membership of %s %s for %s has yet been paid."
+
+#: W:\00_WORK_CLIENT\Site_E-venement\Site\ftp\dev\F/cotisation/add.php:63
+#: W:\00_WORK_CLIENT\Site_E-venement\Site\ftp\dev\F/cotisation/add.php:67
+msgid ""
+"Elle est donc en attente de réception. Vous pouvez l'ajouter à votre "
+"commande en utilisant le formulaire ci-dessous."
+msgstr ""
+"Your membership for the current year is therefore pending. You may add it to "
+"your order using the form below."
+
+#: W:\00_WORK_CLIENT\Site_E-venement\Site\ftp\dev\F/cotisation/add.php:66
+#, php-format
+msgid "La dernière cotisation de %s %s pour %s a été payée en %s."
+msgstr "Previous membership of %s %s for %s was paid in %s."
+
+#: W:\00_WORK_CLIENT\Site_E-venement\Site\ftp\dev\F/cotisation/add.php:71
+msgid ""
+"Notez qu'un surcoût peut vous être décompté lors de l'inscription à un "
+"événement si votre cotisation n'est pas à jour."
+msgstr ""
+"Note that if your membership is outdated, dues will be added to your "
+"registration for an event ."
+
+#: W:\00_WORK_CLIENT\Site_E-venement\Site\ftp\dev\F/cotisation/add.php:84
+msgid "Type de cotisation"
+msgstr "Type of membership"
+
+#: W:\00_WORK_CLIENT\Site_E-venement\Site\ftp\dev\F/cotisation/add.php:93
+#: W:\00_WORK_CLIENT\Site_E-venement\Site\ftp\dev\F/don/_add.php:41
+msgid "ajouter à ma commande"
+msgstr "add to my order"
+
+#: W:\00_WORK_CLIENT\Site_E-venement\Site\ftp\dev\F/cotisation/add.php:97
+msgid ""
+"Aucun type de cotisation n'est actuellement disponible. Veuillez contacter "
+"l'administrateur du site si le problème persiste."
+msgstr ""
+"No type of membership is currently available. Please contact the webmaster "
+"if the problem persists."
+
+#: W:\00_WORK_CLIENT\Site_E-venement\Site\ftp\dev\F/don/_add.php:20
+msgid "Faire un don"
+msgstr "make a donation"
+
+#: W:\00_WORK_CLIENT\Site_E-venement\Site\ftp\dev\F/don/_add.php:26
+msgid "mon don"
+msgstr "my donation"
+
+#: W:\00_WORK_CLIENT\Site_E-venement\Site\ftp\dev\F/don/_add.php:35
+msgid "Mon don"
+msgstr "My donation"
+
+#: W:\00_WORK_CLIENT\Site_E-venement\Site\ftp\dev\F/evenement/calendrier.php:6
+#: W:\00_WORK_CLIENT\Site_E-venement\Site\ftp\dev\F/evenement/calendrier.php:51
+msgid "Calendrier"
+msgstr "Calendar"
+
+#: W:\00_WORK_CLIENT\Site_E-venement\Site\ftp\dev\F/evenement/calendrier.php:51
+#: W:\00_WORK_CLIENT\Site_E-venement\Site\ftp\dev\F/evenement/evenement.php:178
+#: W:\00_WORK_CLIENT\Site_E-venement\Site\ftp\dev\F/evenement/index.php:129
+msgid "Liste des événements"
+msgstr "Events list"
+
+#: W:\00_WORK_CLIENT\Site_E-venement\Site\ftp\dev\F/evenement/evenement.php:180
+#: W:\00_WORK_CLIENT\Site_E-venement\Site\ftp\dev\F/evenement/index.php:131
+msgid "Aucun événements à afficher"
+msgstr "No event to show"
+
+#: W:\00_WORK_CLIENT\Site_E-venement\Site\ftp\dev\F/evenement/evenement.php:221
+#: W:\00_WORK_CLIENT\Site_E-venement\Site\ftp\dev\F/evenement/index.php:156
+msgid "date(s)"
+msgstr "date(s)"
+
+#: W:\00_WORK_CLIENT\Site_E-venement\Site\ftp\dev\F/evenement/evenement.php:222
+msgid "plein tarif"
+msgstr "full price"
+
+#: W:\00_WORK_CLIENT\Site_E-venement\Site\ftp\dev\F/evenement/evenement.php:234
+#: W:\00_WORK_CLIENT\Site_E-venement\Site\ftp\dev\F/evenement/index.php:168
+msgid "date(s) disponibles"
+msgstr "Available date(s)"
+
+#: W:\00_WORK_CLIENT\Site_E-venement\Site\ftp\dev\F/evenement/evenement.php:235
+#: W:\00_WORK_CLIENT\Site_E-venement\Site\ftp\dev\F/evenement/evenement.php:236
+#: W:\00_WORK_CLIENT\Site_E-venement\Site\ftp\dev\F/evenement/index.php:169
+#: W:\00_WORK_CLIENT\Site_E-venement\Site\ftp\dev\F/evenement/index.php:170
+#: W:\00_WORK_CLIENT\Site_E-venement\Site\ftp\dev\F/paypal/paypal.php:95
+msgid "dont"
+msgstr "of which"
+
+#: W:\00_WORK_CLIENT\Site_E-venement\Site\ftp\dev\F/evenement/evenement.php:235
+#: W:\00_WORK_CLIENT\Site_E-venement\Site\ftp\dev\F/evenement/index.php:169
+msgid "date(s) désactivée(s)"
+msgstr "Disabled date(s)"
+
+#: W:\00_WORK_CLIENT\Site_E-venement\Site\ftp\dev\F/evenement/evenement.php:236
+#: W:\00_WORK_CLIENT\Site_E-venement\Site\ftp\dev\F/evenement/index.php:170
+msgid "date(s) annulée(s)"
+msgstr "Cancelled date(s)"
+
+#: W:\00_WORK_CLIENT\Site_E-venement\Site\ftp\dev\F/evenement/evenement.php:243
+msgid "Plein tarif uniquement"
+msgstr "Full price only"
+
+#: W:\00_WORK_CLIENT\Site_E-venement\Site\ftp\dev\F/evenement/evenement.php:244
+msgid ""
+"Cet événement ne prend pas en compte les tarifs réduits dont vous pourriez "
+"bénéficier dans vos infos personnelles."
+msgstr ""
+"This event does not take the discounted rates you may selected from your "
+"personal information."
+
+#: W:\00_WORK_CLIENT\Site_E-venement\Site\ftp\dev\F/evenement/evenement.php:257
+#: W:\00_WORK_CLIENT\Site_E-venement\Site\ftp\dev\F/evenement/index.php:184
+msgid "Documents à télécharger"
+msgstr "Documents to download"
+
+#: W:\00_WORK_CLIENT\Site_E-venement\Site\ftp\dev\F/evenement/evenement.php:276
+#: W:\00_WORK_CLIENT\Site_E-venement\Site\ftp\dev\F/evenement/index.php:202
+msgid "En savoir plus"
+msgstr "Read more"
+
+#: W:\00_WORK_CLIENT\Site_E-venement\Site\ftp\dev\F/evenement/evenement.php:297
+msgid "en savoir plus sur cette option"
+msgstr "find out more about this option"
+
+#: W:\00_WORK_CLIENT\Site_E-venement\Site\ftp\dev\F/evenement/evenement.php:298
+#: W:\00_WORK_CLIENT\Site_E-venement\Site\ftp\dev\F/evenement/index.php:221
+msgid "plan d'accès"
+msgstr "map"
+
+#: W:\00_WORK_CLIENT\Site_E-venement\Site\ftp\dev\F/evenement/evenement.php:299
+msgid "événement privé"
+msgstr "private event"
+
+#: W:\00_WORK_CLIENT\Site_E-venement\Site\ftp\dev\F/evenement/evenement.php:300
+msgid "Informations sur les options"
+msgstr "Information about options"
+
+#: W:\00_WORK_CLIENT\Site_E-venement\Site\ftp\dev\F/evenement/evenement.php:304
+msgid "aucune description pour cette option."
+msgstr "no description for this option."
+
+#: W:\00_WORK_CLIENT\Site_E-venement\Site\ftp\dev\F/evenement/index.php:222
+msgid "hébergement possible en option"
+msgstr "optional accommodation "
+
+#: W:\00_WORK_CLIENT\Site_E-venement\Site\ftp\dev\F/evenement/index.php:223
+msgid "restauration possible en option"
+msgstr "optional catering "
+
+#: W:\00_WORK_CLIENT\Site_E-venement\Site\ftp\dev\F/evenement/index.php:224
+#, php-format
+msgid ""
+"Pour vous inscrire à cet événement,%s veuillez vous identifier en cliquant "
+"ici."
+msgstr ""
+"To book this event, sign in or enter %s your ID code and password by "
+"clicking here."
+
+#: W:\00_WORK_CLIENT\Site_E-venement\Site\ftp\dev\F/evenement/index.php:225
+msgid "cet événement n'est plus proposé à la vente"
+msgstr "This event is no longer on sale"
+
+#: W:\00_WORK_CLIENT\Site_E-venement\Site\ftp\dev\F/evenement/index.php:229
+msgid ""
+"Pour vous inscrire aux événements, vous aurez besoin de vous être identifié "
+"sur le site."
+msgstr ""
+"To book an event, you must previously identify yourself on the website."
+
+#: W:\00_WORK_CLIENT\Site_E-venement\Site\ftp\dev\F/evenement/index.php:242
+msgid "identifiant"
+msgstr "ID"
+
+#: W:\00_WORK_CLIENT\Site_E-venement\Site\ftp\dev\F/evenement/index.php:245
+msgid ""
+"Entrez votre identifiant. Sinon votre nom pour retrouver votre identifiant."
+msgstr "Enter your ID. Otherwise your name to find your ID."
+
+#: W:\00_WORK_CLIENT\Site_E-venement\Site\ftp\dev\F/evenement/index.php:247
+msgid "mot de passe"
+msgstr "password"
+
+#: W:\00_WORK_CLIENT\Site_E-venement\Site\ftp\dev\F/evenement/index.php:249
+msgid "s'identifier"
+msgstr "Log in"
+
+#: W:\00_WORK_CLIENT\Site_E-venement\Site\ftp\dev\F/evenement/index.php:252
+msgid "Mot de passe perdu"
+msgstr "Lost password"
+
+#: W:\00_WORK_CLIENT\Site_E-venement\Site\ftp\dev\F/evenement/index.php:260
+msgid "Entrez votre adresse pour récupérer vos identifiants par email."
+msgstr "Enter your email address to retrieve your password via email."
+
+#: W:\00_WORK_CLIENT\Site_E-venement\Site\ftp\dev\F/evenement/index.php:277
+msgid ""
+"Je m'inscrirai plus tard. Je veux d'abord voir les événements proposés sur "
+"le site."
+msgstr ""
+"I will book later. I wish to look up the available events on the website "
+"first."
+
+#: W:\00_WORK_CLIENT\Site_E-venement\Site\ftp\dev\F/evenement/lieu.php:8
+msgid "Lieu de l'événement"
+msgstr "Event Location"
+
+#: W:\00_WORK_CLIENT\Site_E-venement\Site\ftp\dev\F/general/error404.php:6
+msgid "Erreur 404"
+msgstr "Error 404"
+
+#: W:\00_WORK_CLIENT\Site_E-venement\Site\ftp\dev\F/general/error404.php:33
+msgid "Page introuvable"
+msgstr "Page Not Found"
+
+#: W:\00_WORK_CLIENT\Site_E-venement\Site\ftp\dev\F/general/error404.php:34
+msgid ""
+"La page que vous cherchez est introuvable. Elle a peut-être été déplacée ou "
+"bien n'est plus disponible. Veuillez essayer l'une des options suivantes :"
+msgstr ""
+"The page you are looking for cannot be found. It has either moved or else is "
+"no longer available. Please try one of the following options:"
+
+#: W:\00_WORK_CLIENT\Site_E-venement\Site\ftp\dev\F/general/error404.php:36
+msgid "Assurez-vous que l'URL que vous avez saisie est correcte."
+msgstr "Check the web address and try again."
+
+#: W:\00_WORK_CLIENT\Site_E-venement\Site\ftp\dev\F/general/error404.php:37
+#, php-format
+msgid ""
+"Essayez d'accéder à la page à partir de la %s page d'accueil %s au lieu "
+"d'utiliser un signet. (Si la page a été déplacée, changez votre signet.)"
+msgstr ""
+"Try accessing the page directly from the %s home page %s instead of using a "
+"bookmark. (If the page has moved, update your bookmarks.)"
+
+#: W:\00_WORK_CLIENT\Site_E-venement\Site\ftp\dev\F/general/login.php:39
+msgid "Récupération de vos identifiants de e-venement.com pour"
+msgstr "Recovery of your IDs from e-venement.com for"
+
+#: W:\00_WORK_CLIENT\Site_E-venement\Site\ftp\dev\F/general/login.php:41
+msgid "Voici les identifiants associés à l'adresse"
+msgstr "Here is the ID associated with the address"
+
+#: W:\00_WORK_CLIENT\Site_E-venement\Site\ftp\dev\F/general/login.php:46
+msgid "Merci d'utiliser ces identifiants pour vous connecter au site."
+msgstr "Please use this ID to log in to site."
+
+#: W:\00_WORK_CLIENT\Site_E-venement\Site\ftp\dev\F/general/maintenance.php:6
+#: W:\00_WORK_CLIENT\Site_E-venement\Site\ftp\dev\F/general/maintenance.php:33
+msgid "Site en maintenance"
+msgstr "Website in maintenance"
+
+#: W:\00_WORK_CLIENT\Site_E-venement\Site\ftp\dev\F/general/maintenance.php:34
+msgid ""
+"Le site est en cours de maintenance et n'est donc pas accessible pour le "
+"moment. Merci de votre patience !"
+msgstr ""
+"This website is under maintenance and will be back soon. Thank you for your "
+"patience !"
+
+#: W:\00_WORK_CLIENT\Site_E-venement\Site\ftp\dev\F/newsletter/_add.php:2
+msgid "Lettre d'information"
+msgstr "Newsletter"
+
+#: W:\00_WORK_CLIENT\Site_E-venement\Site\ftp\dev\F/newsletter/_add.php:10
+msgid "s'inscrire"
+msgstr "Sign in"
+
+#: W:\00_WORK_CLIENT\Site_E-venement\Site\ftp\dev\F/newsletter/_add.php:11
+msgid "se désinscrire"
+msgstr "Sign out"
+
+#: W:\00_WORK_CLIENT\Site_E-venement\Site\ftp\dev\F/paypal/cancel.php:10
+#: W:\00_WORK_CLIENT\Site_E-venement\Site\ftp\dev\F/paypal/cancel.php:87
+msgid "Paiement PAYPAL annulé"
+msgstr "PAYPAL payment canceled"
+
+#: W:\00_WORK_CLIENT\Site_E-venement\Site\ftp\dev\F/paypal/cancel.php:88
+msgid "La transaction a été annulée ou a été refusée par PAYPAL."
+msgstr "The transaction has been canceled or has been rejected by PAYPAL."
+
+#: W:\00_WORK_CLIENT\Site_E-venement\Site\ftp\dev\F/paypal/cancel.php:90
+msgid "Aucun paiement n'a été enregistré."
+msgstr "No payment has been recorded."
+
+#: W:\00_WORK_CLIENT\Site_E-venement\Site\ftp\dev\F/paypal/cancel.php:91
+msgid "Aucun débit ne sera effectué sur votre compte PAYPAL."
+msgstr "No payment will be taken to your PayPal account."
+
+#: W:\00_WORK_CLIENT\Site_E-venement\Site\ftp\dev\F/paypal/cancel.php:92
+msgid "Votre inscription à l'événement n'a pas été enregistrée."
+msgstr "Your registration to the event has not been saved."
+
+#: W:\00_WORK_CLIENT\Site_E-venement\Site\ftp\dev\F/paypal/cancel.php:94
+msgid ""
+"Si vous souhaitez revenir à votre commande pour essayer un nouveau mode de "
+"paiement,"
+msgstr "If you want to return to your order to try a new method of payment,"
+
+#: W:\00_WORK_CLIENT\Site_E-venement\Site\ftp\dev\F/paypal/paypal.php:98
+msgid "achat(s) pour"
+msgstr "purchase(s) for"
+
+#: W:\00_WORK_CLIENT\Site_E-venement\Site\ftp\dev\F/paypal/paypal.php:102
+msgid "Cette commande contient"
+msgstr "This order contains"
+
+#: W:\00_WORK_CLIENT\Site_E-venement\Site\ftp\dev\F/paypal/paypal.php:102
+msgid "achat(s)"
+msgstr "purchase(s)"
+
+#: W:\00_WORK_CLIENT\Site_E-venement\Site\ftp\dev\F/paypal/paypal.php:158
+msgid "Echec de la connexion à PAYPAL"
+msgstr "Failed to connect to PAYPAL"
+
+#: W:\00_WORK_CLIENT\Site_E-venement\Site\ftp\dev\F/paypal/paypal.php:159
+#: W:\00_WORK_CLIENT\Site_E-venement\Site\ftp\dev\F/paypal/paypal_anonyme.php:69
+msgid ""
+"La commande [set_express_checkout] a échouée. Veuillez réessayer dans "
+"quelques minutes."
+msgstr ""
+"The [set_express_checkout] command has failed. Please try again in a few "
+"minutes."
+
+#: W:\00_WORK_CLIENT\Site_E-venement\Site\ftp\dev\F/paypal/paypal.php:160
+#: W:\00_WORK_CLIENT\Site_E-venement\Site\ftp\dev\F/paypal/paypal_anonyme.php:70
+msgid ""
+"Si le problème persiste, veuillez contacter l'administrateur du site en lui "
+"transmettant les informations ci-dessous."
+msgstr ""
+"If the problem persists, please contact the webmaster by sending the "
+"information below."
+
+#: W:\00_WORK_CLIENT\Site_E-venement\Site\ftp\dev\F/paypal/paypal.php:161
+msgid ""
+"Note : PAYPAL est limité dans la quantité d'information à transmettre. Si "
+"votre commande contient beaucoup d'achats, c'est peut-être la raison de "
+"cette erreur. Dans ce cas, veuillez créer deux commandes au lieu d'une ou "
+"bien choisissez un autre mode de paiement."
+msgstr ""
+"Note: PAYPAL is limited in the amount of information to be transmitted. If "
+"your order contains a lot of purchases, it may be the reason for this error. "
+"In this case, please create two commands instead of one or choose another "
+"payment method."
+
+#: W:\00_WORK_CLIENT\Site_E-venement\Site\ftp\dev\F/paypal/paypal.php:162
+#: W:\00_WORK_CLIENT\Site_E-venement\Site\ftp\dev\F/paypal/paypal_anonyme.php:71
+msgid "Retour"
+msgstr "Back"
+
+#: W:\00_WORK_CLIENT\Site_E-venement\Site\ftp\dev\F/paypal/paypal.php:164
+#: W:\00_WORK_CLIENT\Site_E-venement\Site\ftp\dev\F/paypal/paypal_anonyme.php:73
+msgid "Informations à envoyer"
+msgstr "Information to be sent"
+
+#: W:\00_WORK_CLIENT\Site_E-venement\Site\ftp\dev\F/paypal/paypal_anonyme.php:21
+msgid "Don anonyme"
+msgstr "Anonymous donation"
+
+#: W:\00_WORK_CLIENT\Site_E-venement\Site\ftp\dev\F/paypal/paypal_anonyme.php:68
+msgid "Echec de la connexion à PAYPAL pour un don anonyme"
+msgstr "Failed PAYPAL connection  for an anonymous donation"
+
+#: W:\00_WORK_CLIENT\Site_E-venement\Site\ftp\dev\F/paypal/return.php:11
+#: W:\00_WORK_CLIENT\Site_E-venement\Site\ftp\dev\F/paypal/return.php:120
+msgid "Paiement PAYPAL accepté"
+msgstr "PAYPAL payment accepted"
+
+#: W:\00_WORK_CLIENT\Site_E-venement\Site\ftp\dev\F/paypal/return.php:121
+msgid "La transaction s'est déroulée avec succès."
+msgstr "The transaction has been successfully processed."
+
+#: W:\00_WORK_CLIENT\Site_E-venement\Site\ftp\dev\F/paypal/return.php:123
+#, php-format
+msgid ""
+"Vous pouvez consulter cette commande dans %s l'historique des factures %s, "
+"sauf si vous avez effectué un don anonyme."
+msgstr ""
+"You may consult this order in %s the invoice list %s, unless you have made "
+"an anonymous donation."
+
+#: W:\00_WORK_CLIENT\Site_E-venement\Site\ftp\dev\F/paypal/return.php:124
+msgid ""
+"Vous allez recevoir dans les plus brefs délais les achats que vous avez "
+"commandé."
+msgstr ""
+"You will receive in the shortest possible time the purchases you have "
+"ordered."
+
+#: W:\00_WORK_CLIENT\Site_E-venement\Site\ftp\dev\F/paypal/return.php:126
+#, php-format
+msgid ""
+"Si vous souhaitez obtenir plus d'information, vous pouvez %s nous contacter "
+"%s en nous précisant la référence de votre commande."
+msgstr ""
+"If you should like to obtain more information, please %s contact us %s by "
+"specifying the reference of your order."
+
+#~ msgid "Ref :"
+#~ msgstr "Ref:"
+
+#~ msgid "Veuillez saisir votre adresse pour"
+#~ msgstr "Enter your address to"
+
+#~ msgid "login"
+#~ msgstr "Login"
+
+#~ msgid "merci de vous identifier %s pour vous inscrire à cet événement"
+#~ msgstr "Please sign in %s to register for this event."
+
+#~ msgid "Zip"
+#~ msgstr "Zip code"
+
+#~ msgid "Aucune cotisation de %s pour %s"
+#~ msgstr "No membership of %s for %"
+
+#~ msgid "no result !"
+#~ msgstr "no result !"
+
+#~ msgid "Mes groupes"
+#~ msgstr "My groups"
+
+#~ msgid "Pas de cotisation enregistrée à ce jour."
+#~ msgstr "No recorded contributions as yet."
+
+#~ msgid "Créer un groupe"
+#~ msgstr "Create a group"
+
+#~ msgid "Nom du groupe"
+#~ msgstr "Group Name"
+
+#~ msgid ""
+#~ "Veuillez entrer un nom de groupe avant de pouvoir ajouter des personnes."
+#~ msgstr "Please enter a group  name before adding people."
+
+#~ msgid "valider"
+#~ msgstr "validate"
+
+#~ msgid "Groupe(s) créé(s) par"
+#~ msgstr "Group (s) set (s) by"
+
+#~ msgid "créer un nouveau groupe"
+#~ msgstr "create a new group"
+
+#~ msgid "voir les"
+#~ msgstr "see"
+
+#~ msgid "personne(s)"
+#~ msgstr "person (s)"
+
+#~ msgid "ajouter une personne au groupe"
+#~ msgstr "add a person to the group"
+
+#~ msgid "supprimer le groupe"
+#~ msgstr "delete the group"
+
+#~ msgid "Groupe(s) auquel(s) appartient"
+#~ msgstr "Group (s) to which (s) belongs"
+
+#~ msgid "désactivé"
+#~ msgstr "disabled"
+
+#~ msgid "Créé par "
+#~ msgstr "Created by"
+
+#~ msgid "Information"
+#~ msgstr "Information"
+
+#~ msgid "Merci de sélectionner un groupe dans la liste."
+#~ msgstr "Thank you select a group from the list."
+
+#~ msgid "Cette action est irréversible."
+#~ msgstr "This action is irreversible."
+
+#~ msgid "Madame, monsieur,"
+#~ msgstr "Dear Sir / Madam,"
+
+#~ msgid "vous a inscrit sur la plateforme événementielle de "
+#~ msgstr "registered you on the plateform event of"
+
+#~ msgid "< retour"
+#~ msgstr "< back"
+
+#~ msgid "Groupe"
+#~ msgstr "Group"
+
+#~ msgid "Aucun utilisateur n'a été ajouté à ce groupe pour le moment"
+#~ msgstr "No user has been added to this group for now"
+
+#~ msgid "créateur du groupe"
+#~ msgstr "Group creator"
+
+#~ msgid "est actif"
+#~ msgstr "is active"
+
+#~ msgid "retirer du groupe"
+#~ msgstr "remove from group"
+
+#~ msgid "Vous allez retirer cet adhérent du groupe."
+#~ msgstr "You will remove this group member."
+
+#~ msgid "Rechercher une personne à ajouter au groupe"
+#~ msgstr "Looking for someone to add to the group."
+
+#~ msgid "Rechercher une personne à ajouter à"
+#~ msgstr "Looking for someone to add to"
+
+#~ msgid "en cliquant ici."
+#~ msgstr "by clicking here."
+
+#~ msgid "Cette personne est déjà inscrite dans ce groupe."
+#~ msgstr "This person is already listed in this group."
+
+#~ msgid "Ajouter au groupe :"
+#~ msgstr "Add to Group : "
+
+#~ msgid "Nouvelle recherche"
+#~ msgstr "New search"
+
+#~ msgid "ajouter au groupe"
+#~ msgstr "add to group"
+
+#~ msgid "créé"
+#~ msgstr "created"
+
+#~ msgid "groupe de"
+#~ msgstr "Group of "
+
+#~ msgid "personnes"
+#~ msgstr "people"
+
+#, fuzzy
+#~ msgid "Cotisation ponctuelle*"
+#~ msgstr "Subscription"
+
+#~ msgid "Contribution ponctuelle"
+#~ msgstr "Time contribution"
+
+#~ msgid "Inscription au site e-venement.com"
+#~ msgstr "Site Registration e-venement.com"
+
+#~ msgid "Imprimer"
+#~ msgstr "Print"
+
+#, fuzzy
+#~ msgid "Le support  du site e-venement.com pour"
+#~ msgstr "Site Registration e-venement.com"
+
+#~ msgid "payer"
+#~ msgstr "pay"
+
+#, fuzzy
+#~ msgid "historique des factures"
+#~ msgstr "Orders history"
+
+#~ msgid "Une commande est aussi en cours de réalisation."
+#~ msgstr "A command is in progress."
+
+#, fuzzy
+#~ msgid "Cordialement"
+#~ msgstr "Sincerely."
+
+#, fuzzy
+#~ msgid "Le support du site e-venement.com "
+#~ msgstr "Site Registration e-venement.com"
+
+#, fuzzy
+#~ msgid "l'historique des factures."
+#~ msgstr "Orders history"
+
+#, fuzzy
+#~ msgid "nous contacter"
+#~ msgstr "Contact Us"
+
+#~ msgid "Déconnexion"
+#~ msgstr "Log out"
+
+#~ msgid "Inscription"
+#~ msgstr "Inscription"
+
+#~ msgid "Récupération de votre mot de passe"
+#~ msgstr "Retrieve your password"
+
+#~ msgid ""
+#~ "Récupération des informations de votre compte. Vous pouvez vous "
+#~ "identifier à nouveau avec votre login et mot de passe."
+#~ msgstr ""
+#~ "Retrieving information from your account. You can log in again with your "
+#~ "username and password."
+
+#~ msgid "faire un don"
+#~ msgstr "make a donation"
+
+#~ msgid "en cours"
+#~ msgstr "in progress"
+
+#~ msgid "Inscrire aussi les personnes du groupe : "
+#~ msgstr "Include also people of the group : "
+
+#~ msgid "Créer un nouveau groupe"
+#~ msgstr "Create a new group"
+
+#~ msgid "Identifiant :"
+#~ msgstr "Id :"
+
+#~ msgid "ici"
+#~ msgstr "here"
+
+#~ msgid "Référence : "
+#~ msgstr "Reference : "
+
+#~ msgid "Si vous avez une question n'hésitez pas à nous contacter."
+#~ msgstr "If you have any question don't hesitate to contact us."
+
+#~ msgid "Pour revenir sur la page d'accueil du site cliquez cliquez"
+#~ msgstr "To come back to the home page click here"
+
+#~ msgid "Créée le "
+#~ msgstr "Created on the"
+
+#~ msgid "Tarif"
+#~ msgstr "Pricing"
+
+#~ msgid "Evenement(s)"
+#~ msgstr "Event(s)"
+
+#~ msgid "aucun événement"
+#~ msgstr "No event"
+
+#~ msgid "Cotisation(s)"
+#~ msgstr "Subscription(s)"
+
+#~ msgid "blablabla"
+#~ msgstr "test anglais"
+
+#~ msgid "je souhaite un reçu."
+#~ msgstr "I want a receipt."
+
+#~ msgid "Plan"
+#~ msgstr "Plan"
+
+#~ msgid "en vente"
+#~ msgstr "on sale"
+
+#~ msgid "annulé"
+#~ msgstr "canceled"
+
+#~ msgid "à partir du"
+#~ msgstr "to"
+
+#~ msgid "<i>Aucun jours à afficher</i>"
+#~ msgstr "<i>No days to view</i>"
+
+#~ msgid "Le"
+#~ msgstr "The"
+
+#~ msgid ""
+#~ "Votre inscription est sauvegardée en temps réel. Pour cet événement, je "
+#~ "souhaite aussi inscrire des personnes du groupe : "
+#~ msgstr ""
+#~ "Your registration is saved in real time. For this event, I would also "
+#~ "include persons of the group:"
+
+#~ msgid ""
+#~ "Pour obtenir plus d'information, merci de nous <a href='../general/"
+#~ "contact.php'>contacter</a>."
+#~ msgstr ""
+#~ "For more information, thank you for <a href='../general/contact."
+#~ "php'>contacting us</a>."
+
+#~ msgid "Accueil"
+#~ msgstr "Homepage"
+
+#~ msgid "e-venement.com"
+#~ msgstr "e-venement.com"
+
+#~ msgid "ajouter"
+#~ msgstr "add"
+
+#~ msgid "Aucun jours à afficher"
+#~ msgstr "No days to view"
+
+#~ msgid "Envoyer"
+#~ msgstr "Send"
+
+#~ msgid "Ok"
+#~ msgstr "Ok"
+
+#~ msgid "Ajouter une personne au groupe"
+#~ msgstr "Add a person to the group"
+
+#~ msgid "personne(s), créé par"
+#~ msgstr "person(s), set (s) by"
+
+#~ msgid "déjà désactivé"
+#~ msgstr "already disabled"
+
+#~ msgid "Modifier le groupe"
+#~ msgstr "Edit Group"
+
+#~ msgid "Renseignez au moins nom et prénom, ou l'email."
+#~ msgstr "Enter at least name, or email."
+
+#~ msgid "Et prénom"
+#~ msgstr "And firstname"
+
+#~ msgid "Ou"
+#~ msgstr "Or"
+
+#~ msgid "Reset"
+#~ msgstr "Reset"
+
+#~ msgid "Non"
+#~ msgstr "No"
+
+#~ msgid "ajouter un adhérent au groupe"
+#~ msgstr "add a participant to the group"
+
+#~ msgid "N'oubliez pas de remplir votre page perso. Cordialement, l'admin."
+#~ msgstr "Remember to fill your personal page. Regards, the admin."
+
+#~ msgid ""
+#~ "Recherche d'une personne à ajouter au groupe. Veuillez entrer soit un nom "
+#~ "et prénom, soit une adresse email."
+#~ msgstr ""
+#~ "Looking for someone to add to the group. Please enter either a name, an "
+#~ "email address."
+
+#~ msgid "Aucun résultat trouvé. Veuillez lancer une nouvelle recherche."
+#~ msgstr "No results found. Please search again."
+
+#~ msgid "retour à la liste des groupes"
+#~ msgstr "return to the list of groups"
