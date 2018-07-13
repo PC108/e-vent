@@ -1,0 +1,162 @@
+##INFOS
+# Nom du lien qui apparait dans le menu transversal et le menu classqique
+#url : Url du lien
+#class : Niveau d'affichage dans le menu de navigation en popup. Si niveau0, sert puniquement pour les titres des pages.
+#check : Si ok, s'affiche toujours. Sinon, ne s'affiche que quand la valeur = oui dans config2.yml, rubrique "MENU"
+
+ADHERENTS:
+  L1:
+    nom: Adhérents
+    url: ../adherent/result.php
+    class: niveau1
+    check: ok
+  L2:
+    nom: Types de tarifs
+    url: ../typetarif/result.php
+    class: niveau2
+    check: ok
+  L4:
+    nom: Liste des compétences
+    url: ../competence/result.php
+    class: niveau2
+    check:
+     - ADHERENT
+     - benevolat
+  L3:
+    nom: Liste de diffusion
+    url: ../newsletter/result.php
+    class: niveau1
+    check: ok
+  L5:
+    nom: Modifier l'image de l'événement
+    class: niveau0
+  L6:
+    nom: Fusionner les doublons
+    url: ../doublon/compare.php
+    class: niveau1
+    check: ok
+
+EVENEMENTS:
+  L1:
+    nom: Evénements
+    url: ../evenement/result.php
+    class: niveau1
+    check: ok
+  L7:
+    nom: Images des événements
+    url: ../upload_img/result.php
+    class: niveau2
+    check: ok
+  L2:
+    nom: Lieux des événements
+    url: ../lieuevent/result.php
+    class: niveau2
+    check: ok
+  L3:
+    nom: Types d'hébergement
+    url: ../typehebergement/result.php
+    class: niveau2
+    check: ok
+  L4:
+    nom: Types de restauration
+    url: ../typerestauration/result.php
+    class: niveau2
+    check: ok
+  L5:
+    nom: Jours événement
+    class: niveau0
+  L6:
+    nom: Documents à associer
+    url: ../upload_doc/result.php
+    class: niveau2
+    check: ok
+
+COMMANDES:
+  L1:
+    nom: Commandes
+    url: ../commande/result.php
+    class: niveau1
+    check: ok
+  L3:
+    nom: Types de dons
+    url: ../typedon/result.php
+    class: niveau2
+    check:
+      - MENU
+      - don
+  L4:
+    nom: Types de cotisations
+    url: ../typecotisation/result.php
+    class: niveau2
+    check:
+      - MENU
+      - cotisation
+  L2:
+    nom: Retour paypal
+    url: ../paypal/result.php
+    class: niveau1
+    check: ok
+  L5:
+    nom: Achat
+    class: niveau0
+  L6:
+    nom: Accéder à la SAISIE DIRECTE
+    url: ../commande/saisie.php
+    class: niveau1
+    check: ok
+
+STATISTIQUES:
+  L1:
+    nom: Commandes par mois
+    url: ../statistique/ca_mois_liste.php
+    class: niveau1
+    check: ok
+  L2:
+    nom: Commandes par événements
+    url: ../statistique/ca_event_liste.php
+    class: niveau1
+    check: ok
+
+CONFIGURATION:
+  L1:
+    nom: Accès au back-office
+    url: ../acces/result.php
+    class: niveau1
+    check: ok
+  L2:
+    nom: Informations sur la société
+    url: ../client/maj.php
+    class: niveau1
+    check: ok
+  L3:
+    nom: Nettoyer les inscriptions
+    url: ../maintenance/cleanAdh.php
+    class: niveau1
+    check: ok
+  L5:
+    nom: Exporter la base de données
+    url: ../maintenance/export_database.php
+    class: niveau1
+    check:
+      - MENU
+      - export_database
+
+NAVIGATION:
+  L1:
+    nom: Retour au menu
+    url: ../login/menu.php
+    class: niveau1
+    check: ok
+  L2:
+    nom: Retour au site
+    url: ../../F/evenement/index.php
+    class: niveau1
+    check: ok
+  L3:
+    nom: Deconnexion
+    url: ../login/logout.php
+    class: niveau1
+    check: ok
+  L4:
+    nom: Commentaires
+    class: niveau0
