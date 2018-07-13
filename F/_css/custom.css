@@ -1,0 +1,54 @@
+html {
+		background-color: #ece8e6;
+		background-image: url(../_media/GEN/fd_app.png);
+		color: #666666;
+}
+h1, h2, h4 {color: #003399;}
+#header{
+		background-image: url(../_media/GEN/fd_header.png);
+		background-repeat: repeat-x;
+}
+#header_img {height: 150px;}
+#header_langue {top: 150px;}
+#header_e- {
+		bottom: 3px;
+		font-size: 21px;
+		color: #FFFFFF;
+}
+#global {max-width: 1500px;}
+#header_user, #navigation{margin-left: 50px;}
+#header_user, #header_langue {background-color: #FFFFFF;}
+#content, #bloc_newsletter, #bloc_don, #bloc_contact, .bloc_identification {background-color: #FFFFFF;}
+#bloc_cotisation, #bloc_commande, .formulaire, .info_print, .bloc_print {background-color: #FFFFFF;}
+.info_jour, .formulaire, .info_print, .bloc_print {background-color: #FFFFFF;}
+.formulaire, .info_print, .bloc_print, .blocEvent_content, .header_etat, .icone_event, #map_canvas, .bt_retour {border: 1px solid #EEEEEE;}
+.cadre_info, .info_jour, .jour_etat, .cadre_image {border: 1px solid #DDDDDD;}
+.cadre_info, .bt_retour {background-color: #FFFFFF;}
+.titre_amis {
+		background-color: #EEEEEE;
+		color: #A7A7B0;
+}
+.bt_submit, .bt_lien {
+		background-color: #d5edff;
+		border: 1px solid #99ccff;
+}
+.bt_lien a {color: #6699ff;}
+.bt_submit {color: #6699ff;}
+.bt_submit:hover, .bt_lien:hover {
+		border: 1px solid #bbbbbb;
+		color: #000000;
+}
+.bt_delete {
+		background-color: #ffddee;
+		border: 1px solid #ffbbdd;
+		color: #6699ff;
+}
+body a, .ui-widget-content a {color: #6699ff;}
+body a:hover{color: #00ff00;}
+#footer {color: #BBBBBB;}
+
+/* A garder à la fin */
+.blocEvent_content{
+		background-color: #ece8e6;
+		border-top: 0;
+}

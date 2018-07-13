@@ -1,0 +1,41 @@
+/*ACCORDION*/
+.ui-accordion .ui-accordion-header, #navigation button {font-size: 16px;}
+.ui-accordion .ui-accordion-header {
+			font-family: Verdana, Arial, Helvetica, sans-serif;
+			margin-top: 10px;
+}
+.ui-accordion .ui-accordion-content {padding: 20px;}
+#navigation button {height: 40px;}
+.ui-accordion .ui-accordion-header a {padding: 10px;}
+/*ESPACE ICONE BARRE DE NAVIG*/
+.ui-button-text-icon-primary .ui-button-text, .ui-button-text-icons .ui-button-text {padding: .4em 1em .4em 1.7em;}
+/*MESSAGE D'ERREUR'*/
+.uiphil-msg {
+			padding: 0 10px;
+			margin: 10px auto;
+			width: 350px;
+}
+/*Petits boutons à insérer dans les tableaux qui utilisent JQUERY UI*/
+.small_jquery_bt .ui-button-text  {
+			line-height: 0.6em;
+}
+
+/*************************** TABS | DIALOG ***************************/
+/*Ajustage du bas de la boite de dialogue qui dépasse des coins arrondis */
+.ui-dialog {padding: 0 0 0.6em 0;}
+.ui-dialog .ui-dialog-buttonpane {padding: 0;}
+.ui-dialog .ui-dialog-titlebar {
+			border-top: 0;
+			border-left: 0;
+			border-right: 0;
+			font-weight: normal;
+			font-size: 1.3em;
+			-moz-border-radius-bottomleft: 0px; 
+			-moz-border-radius-bottomright: 0px; 
+			-webkit-border-bottom-left-radius: 0px; 
+			-webkit-border-bottom-right-radius: 0px;
+			-khtml-border-bottom-left-radius: 0px; 
+			-khtml-border-bottom-right-radius: 0px;
+			border-bottom-left-radius: 0px;
+			border-bottom-right-radius: 0px;	
+}

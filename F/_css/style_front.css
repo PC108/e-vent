@@ -1,0 +1,375 @@
+/* GRAPHIQUE /////////////////////////////////////////////////////////*/
+body, html {margin: 0px; padding: 0px }
+form {
+		margin: 0;
+}
+#global {
+		min-height: 100%;
+		width:94%;
+		min-width: 890px;
+		margin: 0 auto;
+		position: relative;
+		/*background-color: #000000;*/
+}
+/* BLOCK /////////////////////////////////////////////////////////*/
+#sidebar {
+		width:220px;
+		margin-top: 10px;
+		float: right;
+}
+#sidebar, #content {margin-top: 10px}
+#content, #header_user {margin-right: 230px;}
+#header_langue, #header_user, #footer {padding: 10px 20px;}
+#header_langue, #header_user {height: 27px;}
+#header_langue {
+		position: absolute;
+		text-align: center;
+		font-size: 15px;
+		right: 0;
+		top: 150px;
+}
+#header_user{
+			min-width: 500px;
+			text-align: right;
+}
+#navigation {padding-top: 10px;}
+#header_img {position:relative;}
+#header_e- {
+		position:absolute;
+		right: 20px;
+}
+#content {padding: 20px;}
+#bloc_commande, #bloc_newsletter, #bloc_don, #bloc_contact, #totalcommande, #bloc_cotisation, .bloc_identification {padding: 10px 15px;}
+#totalcommande, #bloc_newsletter, #bloc_don, #bloc_cotisation {margin-bottom: 12px;}
+#bloc_commande p, #bloc_contact p {
+		padding: 0 0 0 20px;
+		margin: 0;
+}
+#bloc_commande h3, #bloc_contact h3 {
+		margin: 10px 0 5px 0;
+}
+/* FOOTER /////////////////////////////////////////////////////////*/
+#footer {font-size: 12px;}
+
+/* TEXTE /////////////////////////////////////////////////////////*/
+body, textarea, input {
+		font-family: Arial, Helvetica, sans-serif;
+		color: #000000;
+		font-size: 14px;
+}
+body a, body a:hover {text-decoration: none;}
+h1, h2, h3, form h3, h4, h6 {
+		font-family: Verdana, Arial, Helvetica, sans-serif;
+		font-weight: normal;
+}
+h1 {
+		margin-top: 30px;
+		font-size: 21px;
+		letter-spacing: 1px;
+}
+h2, h3 {font-size: 16px;}
+h3 {
+		color: #A7A7B0;
+		border-bottom: 1px dotted #A7A7B0;
+		margin: 24px 0 4px 0;
+}
+h4 {
+		font-size: 14px;
+		margin: 10px 0 3px 0;
+}
+h6 {
+		font-size: 13px;
+		display: inline;
+}
+.e- {
+		font-size: 130%;
+		font-style: italic;
+		font-weight: normal;
+}
+.centrer {text-align: center;}
+.espace10 {margin-top: 10px;}
+.fo_ok {background-color: #6699ff;}
+.fo_lock {background-color: #cc0000;}
+.pointer {cursor: pointer;}
+.invisible { display: none;}
+.commentaire {
+		color: #97acc2;
+		font-family: Verdana, Arial, Helvetica, sans-serif;
+		font-size: 13px;
+}
+.titre_amis {
+		margin-top: 20px;
+		padding: 10px 30px;
+}
+.bloc_relations {
+		margin-top: 10px;
+		border: 1px solid #EEEEEE;
+		background-color: #eeffcc;
+		padding: 5px 20px;
+		color: #339900;
+		line-height: 20px;
+		z-index: 100;
+}
+/* FORMULAIRE /////////////////////////////////////////////////////////*/
+.formulaire {
+		padding: 20px;
+		margin-bottom: 10px;
+}
+input, select, textarea {
+		padding: 5px;
+		border: 1px dotted #3366cc;
+}
+/* pour IE */
+input[type=checkbox]  {
+		border: inherit;
+}
+
+.hr_form {
+		padding: 4px 0 4px 10px;
+		border-bottom: 1px dotted #EEEEEE;
+}
+.label_form {
+		width: 220px;
+		float: left;
+		/*font-style: italic;*/
+		color: #97acc2;
+		border: 0;
+}
+.content_form {padding-left: 220px;}
+.required {
+		color: inherit;
+		font-style: inherit;
+		border-color: #000000;
+		border-style: solid;
+}
+.light  {
+		border: 1px solid #99ccff;
+		color: #99ccff;
+}
+.submit_form {
+		margin-top: 30px;
+}
+.note {
+		font-style: italic;
+		color: #97acc2;
+		font-size: 12px;
+}
+.liste_add {
+		margin: 0;
+		padding: 0;
+}
+.liste_add li {
+		list-style: none;
+}
+
+/* BOUTONS  /////////////////////////////////////////////////////////*/
+
+.bt_lien {
+		display: inline-block;
+		padding: 6px 8px;
+}
+.bt_relation {
+		display: inline-block;
+		padding: 0 6px;
+		background-color: #ccff99;
+		border: 1px solid #DDDDDD;
+}
+/*.submit, .bt_delete {
+    font-style: normal;
+}*/
+
+.bt_retour {
+		margin: -20px 19px 0 -20px;
+		padding: 5px 20px;
+		float: left;
+}
+.bt_lieu {white-space:nowrap;}
+.bt_lieu a:hover {color: inherit;}
+
+/* FORMULAIRE VALIDATION /////////////////////////////////////////////////////////*/
+input.error, select.error, textarea.error { border: 1px solid #33cc00; }
+label.error {
+		float: none;
+		color: #33cc00;
+		padding-left: .5em;
+		font-style: italic;
+}
+#form_identification table {float: right;}
+#form_identification label.error, #form_newsletter label.error {display: block;}
+
+.bt_close_saisie {
+			border: 1px solid #FFFFFF;
+			background-color: #cc0000;
+			padding: 5px;
+			display: inline-block;
+}
+
+/* BLOC EVENEMENT  /////////////////////////////////////////////////////////*/
+.blocEvent_header {
+		position: relative;
+		margin-top: 10px;
+		padding: 10px 10px 12px 10px;
+		cursor: pointer;
+}
+.bloc_heber ul, .bloc_resto ul {
+		margin: 0;
+		padding: 0;
+		list-style-type: none;
+}
+.bloc_heber li, .bloc_resto li {line-height: 24px;}
+/* BLOC EVENEMENT ACCORDEON  /////////////////////////////////////////////////////////*/
+.header_titre {
+		font-family: Verdana, Arial, Helvetica, sans-serif;
+		font-size: 16px;
+}
+.header_date {
+		position: absolute;
+		top: 7px;
+}
+.header_etat {
+		position: absolute;
+		width: 24px;
+		height: 24px;
+		right: -4px;
+		top: -4px;
+}
+.text_date {
+		font-family: Arial, Helvetica, sans-serif;
+		font-size: 14px;
+		right: 30px;
+}
+.prodok {background-image: url(../_media/GEN/event_ok.png);}
+.prodalert {background: url(../_media/GEN/event_alert.png);}
+.prodbad {background-image: url(../_media/GEN/event_bad.png);}
+.prodok, .prodalert, .prodbad {background-repeat: no-repeat;}
+.text_Etat {
+		margin: 10px 5px;
+		padding: 0 10px 0 25px;
+}
+/* inutilisé - géré par la fonction adn_afficheFromDateToDate dans Formatage.php */
+.dateOK {background-image: url(../_media/GEN/date_ok.png);}
+.dateBAD {background-image: url(../_media/GEN/date_bad.png);}
+
+.icone_event {margin-right: 10px;}
+.image_event {
+		width: 242px;
+		float: left;
+}
+.widget_event {margin-top: 20px;}
+.cadre_info {padding:10px;}
+.content_event {padding-left: 260px;}
+.info_jour {
+		padding: 2px;
+		margin-bottom: 6px;
+}
+.info_jour a {color: inherit;}
+.prix {
+		padding: 2px 10px;
+		white-space: nowrap;
+}
+.fd_bleu {
+		background-color: #6699ff;
+		color: #FFFFFF;
+}
+.fd_bleuclair{
+		background-color: #99ccff;
+		color: #FFFFFF;
+}
+.fd_blanc{
+		background-color: #FFFFFF;
+		color: #6699ff;
+}
+.fd_vert{background-color: #b6ee30;}
+.fd_beige{background-color: #f3f0ef;}
+.bloc_jour, .bloc_heber, .bloc_resto {
+		padding: 5px;
+		margin: 3px;
+		display: inline-block;
+		vertical-align: top;
+}
+.bloc_jour {
+		padding: 5px;
+		line-height: 22px;
+}
+.jour_etat {
+		float: right;
+		padding: 1px 15px;
+		color: #999999;
+}
+
+/* BOX  /////////////////////////////////////////////////////////*/
+#box_popup, #box_icgmap, #box_icinfoopt, #box_description {
+		position: absolute;
+		top: -500px;
+		left: -500px;
+}
+.popup {
+		padding: 7px;
+		background-color: #cbcbcb;
+		color: #FFFFFF;
+		font-size: 12px;
+		border: 1px solid #FFFFFF;
+}
+#box_confirmachat {
+		position: fixed;
+		top: -150px;
+		left: 50%;
+		width: 400px;
+		margin-left: -200px;
+		z-index: 110; /*passe au dessus de .bloc_relations*/
+}
+.confirmachat {
+		background-color: #FFFFFF;
+		border: 1px solid #BBBBBB;
+		padding: 0 10px 10px 10px;
+		text-align: center;
+}
+/* TABLEAU FRONT  /////////////////////////////////////////////////////////*/
+.table_cmd td {
+		padding: 20px 0 3px 0;
+		border-bottom: 1px dotted #EEEEEE;
+}
+.table_cmd th {
+		color: #97acc2;
+		font-family: Verdana, Arial, Helvetica, sans-serif;
+		font-weight: inherit;
+		text-align: inherit;
+}
+.cellule {
+		display: inline;
+		margin-right: 10px;
+		padding: 5px;
+}
+.cell_txt,.cell_light {
+		line-height: 30px;
+}
+
+.cell_txt{
+		font-size: 16px;
+		border: 1px solid #EEEEEE;
+}
+.cell_light{
+		padding-left: 10px;
+		font-style: italic;
+		color: #666666;
+}
+.cell_txt{
+		background-color: #FFFFFF;
+}
+.adherent {cursor: pointer;}
+/* SAISIE DIRECTE  /////////////////////////////////////////////////////////*/
+#saisie {
+			text-align: center;
+			padding : 10px 20px;
+}
+/* FORM DIALOG  /////////////////////////////////////////////////////////*/
+.label_dialog {
+		float: left;
+		text-align: left;
+}
+.content_dialog {padding-bottom: 10px;}
+.bloc_identification {margin-top: 10px;}
+.bloc_identification img {
+			float: left;
+			margin-right: 10px;
+}

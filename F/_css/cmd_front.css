@@ -1,0 +1,36 @@
+#conteneur_print {
+    background-color: #FFFFFF;
+    margin: 10px;
+    padding: 10px 30px 30px 30px;
+}
+.info_print {
+    padding: 10px;
+    margin-bottom: 10px;
+}
+.bloc_print {
+    padding: 5px 20px;
+    margin-top: 10px;
+}
+.bloc_print p{
+    margin-left: 30px;
+    line-height: 18px;
+}
+.agauche {
+    float: left;
+}
+.adroite {
+    float: right;
+    text-align: right;
+}
+.ligne_prix {
+    border-bottom: 1px solid #EEEEEE;
+    margin-bottom: 15px;
+}
+.ligne_prix img {
+    margin-left: 10px;
+    cursor: pointer;
+}
+.complet{
+		color: #FF0000;
+		background-color: #ffddee;
+}
