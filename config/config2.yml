@@ -1,7 +1,7 @@
 ## YAML Template.
 ---
 "DATABASE":
-  chemin: ../../../cnx/db_dev.php
+  chemin: ../../cnx/db_dev.php
   nom: event_dev
   
 "MENU":
