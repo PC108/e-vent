@@ -39,8 +39,8 @@ if	(!isset($_SESSION['info_client']))	{
     SELECT *,
     (SELECT PAYS_nom_$langue FROM t_pays_pays WHERE FK_PAYS_id=PAYS_id) AS pays
     FROM t_client_cli";
-			$RSclient	=	mysql_query($query,	$connexion)	or	die(mysql_error());
-			$nbreRows_RSclient	=	mysql_num_rows($RSclient);
+			$RSclient	=	mysqli_query($connexion,$query)	;
+			$nbreRows_RSclient	=	mysqli_num_rows($RSclient);
 			if	($nbreRows_RSclient	==	0)	{
 						header("Content-Type: text/html; charset=utf-8");
 						echo("<p>Configuration de l'application e-venement.com : ");
