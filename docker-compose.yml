@@ -2,15 +2,14 @@ version: '2'
 
 services:
 
-    web:
-       
+    web:   
         build: .
         ports:
             - "80:80"      
         volumes:
-            - ./project:/var/www/html
-            - ./apache/conf/event_dev.conf:/etc/apache2/sites-available/event_dev.conf
-            - ./php/conf/php.ini:/usr/local/etc/php/conf.d/php.ini
+            - ./web:/var/www/html
+            - ./docker/apache/conf/event_dev.conf:/etc/apache2/sites-available/app.conf
+            - ./docker/php/conf/php.ini:/usr/local/etc/php/conf.d/php.ini
 
         links:
             - db:db   
@@ -21,7 +20,7 @@ services:
     db:
         image: mysql:5.5
         volumes:
-            - ./var/mysql:/var/lib/mysql
+            - ../var/mysql:/var/lib/mysql
         ports:
             - "3306:3306"
         environment:
@@ -40,28 +39,4 @@ services:
         ports:
             - 8083:8080
          
- #    web:
-#        image: lavoweb/php-5.6
-#        ports:
-#            - "81:80"
-#        volumes:
-#            - ./var/www:/var/www/html
-#       links:
-#            - db:db        
-         
-#    jenkins:
-#        image: jenkins/jenkins:lts
-#       volumes:
-#            - /var/jenkins_home:/var/jenkins_home
-#        ports:
-#            - "8082:8080"
-#            - "50000:50000"            
-#   elk:
-#        image: sebp/elk
-#        volumes:
-#            - /var/elk-data:/var/lib/elasticsearch
-#        ports:
-#           - "5601:5601"
-#          - "9200:9200"
-#           - "5044:5044"
-           
+ 
