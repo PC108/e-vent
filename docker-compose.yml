@@ -3,13 +3,13 @@ version: '2'
 services:
 
     web:   
-        build: .
+        build: ./docker/php-apache/.
         ports:
             - "80:80"      
         volumes:
-            - ./web:/var/www/html
-            - ./docker/apache/conf/event_dev.conf:/etc/apache2/sites-available/app.conf
-            - ./docker/php/conf/php.ini:/usr/local/etc/php/conf.d/php.ini
+            - ./web:/var/www/html/.
+            - ./docker/php-apache/conf/web.conf:/etc/apache2/sites-available/web.conf
+            - ./docker/php-apache/conf/php.ini:/usr/local/etc/php/conf.d/php.ini
 
         links:
             - db:db   
