@@ -5,11 +5,14 @@ services:
     web:   
         build: ./docker/php-apache/.
         ports:
-            - "80:80"      
+            - "80:80"   
+            - "9000:9000"            
         volumes:
-            - ./web:/var/www/html/.
+            - ./www:/var/www/html/.
             - ./docker/php-apache/conf/web.conf:/etc/apache2/sites-available/web.conf
+            - ./docker/php-apache/conf/web.conf:/etc/apache2/sites-available/dev.conf
             - ./docker/php-apache/conf/php.ini:/usr/local/etc/php/conf.d/php.ini
+            - ./var/log:/tmp/.
 
         links:
             - db:db   
@@ -27,16 +30,16 @@ services:
             - MYSQL_ROOT_PASSWORD=root
     myadmin:
         image: phpmyadmin/phpmyadmin
-        container_name: phpmyadmin
+        container_name: phpmyadmin_debug
         ports:
-            - "8082:80"
+            - "8085:80"
         links:
             - db:db
-                 
-    adminer:
-        image: adminer
-        restart: always
-        ports:
-            - 8083:8080
+ #                
+ #   adminer:
+ #       image: adminer
+ #       restart: always
+ #       ports:
+ #           - 8089:8080
          
  

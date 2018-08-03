@@ -1,9 +1,13 @@
 FROM php:7.0-apache
 
-
-#COPY ./conf/web.conf /etc/apache2/sites-available/web.conf
-#COPY  ./conf/php.ini /usr/local/etc/php/conf.d/php.ini
+# Install PECL extensions
+RUN pecl install xdebug-2.5.5
+RUN docker-php-ext-enable xdebug
 RUN docker-php-ext-install mysqli gettext 
+
+
+
+
   
   
 
